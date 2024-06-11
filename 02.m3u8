@@ -1,993 +1,1128 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml"
-#EXTINF:-1 channel-id="samsung-USBB5200028MM" tvg-id="USBB5200028MM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200028MM_20240228T094505SQUARE.png_20240228094507.png" tvg-chno="1002" group-title="Sci-Fi & Horror" , Mysteries Xplored
-https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508703A" tvg-id="USAK3508703A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508703A_20240228T061505SQUARE.png_20240228061506.png" tvg-chno="1003" group-title="Crime" , Crime 24/7
-https://i.mjh.nz/SamsungTVPlus/USAK3508703A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA370000104" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20220621T075722SQUARE.png_20220621075724.png" tvg-chno="1005" group-title="News & Opinion" , CBS News
-https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300024TN" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20220608T005555SQUARE.png_20220608005557.png" tvg-chno="1006" group-title="News & Opinion" , LiveNOW from FOX
-https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC39000171G" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20230307T222314SQUARE.png_20230307222314.png" tvg-chno="1007" group-title="News & Opinion" , ABC News Live
-https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2200014DK" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20231129T022258SQUARE.png_20231129022259.png" tvg-chno="1008" group-title="News & Opinion" , NBC News NOW
-https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000103E" tvg-id="USBB32000103E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000103E_20230823T001627SQUARE.png_20230823001628.png" tvg-chno="1009" group-title="News & Opinion" , CNN Headlines
-https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700003L7" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20230823T001701SQUARE.png_20230823001702.png" tvg-chno="1010" group-title="News & Opinion" , FOX Weather
-https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB52000022Q" tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20230509T224438SQUARE.png_20230509224439.png" tvg-chno="1013" group-title="News & Opinion" , Sky News
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400003OU" tvg-id="USBC4400003OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400003OU_20230726T004448SQUARE.png_20230726004449.png" tvg-chno="1014" group-title="News & Opinion" , CBC News International
-https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400011A8" tvg-id="USAJ3400011A8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400011A8_20230208T100301SQUARE.png_20230208100302.png" tvg-chno="1015" group-title="News & Opinion" , Bloomberg TV+ UHD
-https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504714A" tvg-id="USAJ3504714A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504714A_20230208T100305SQUARE.png_20230208100306.png" tvg-chno="1016" group-title="News & Opinion" , Cheddar News
-https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300005PJ" tvg-id="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20230125T022140SQUARE.png_20230125022141.png" tvg-chno="1017" group-title="News & Opinion" , Yahoo Finance
-https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000251N" tvg-id="USBB32000251N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000251N_20230125T022129SQUARE.png_20230125022129.png" tvg-chno="1019" group-title="News & Opinion" , TODAY All Day
-https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3000073N" tvg-id="USBD3000073N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000073N_20230712T001645SQUARE.png_20230712001645.png" tvg-chno="1020" group-title="News & Opinion" , Scripps News
-https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000041W" tvg-id="USAJ30000041W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000041W_20230208T100259SQUARE.png_20230208100300.png" tvg-chno="1021" group-title="News & Opinion" , Bloomberg Originals
-https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1500001GD" tvg-id="USBB1500001GD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20221109T013537SQUARE.png_20221109013538.png" tvg-chno="1023" group-title="News & Opinion" , USA Today
-https://i.mjh.nz/SamsungTVPlus/USBB1500001GD.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300028QU" tvg-id="USBA300028QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300028QU_20231129T022301SQUARE.png_20231129022302.png" tvg-chno="1027" group-title="News & Opinion" , NEWSMAX2
-https://i.mjh.nz/SamsungTVPlus/USBA300028QU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1900002KF" tvg-id="USBB1900002KF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900002KF_20221109T013546SQUARE.png_20221109013547.png" tvg-chno="1029" group-title="News & Opinion" , Real America's Voice
-https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA30002142" tvg-id="USBA30002142" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20221109T013512SQUARE.png_20221109013515.png" tvg-chno="1032" group-title="News & Opinion" , TYT Network
-https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200005A0" tvg-id="USBC3200005A0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20230222T041423SQUARE.png_20230222041424.png" tvg-chno="1035" group-title="News & Opinion" , NBC Bay Area News
-https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400010RH" tvg-id="USBC4400010RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20230322T000008SQUARE.png_20230322000009.png" tvg-chno="1036" group-title="News & Opinion" , ABC7 Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3600008BU" tvg-id="USBB3600008BU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20230125T022318SQUARE.png_20230125022319.png" tvg-chno="1037" group-title="News & Opinion" , WN San Francisco
-https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700010WB" tvg-id="USBD2700010WB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700010WB_20231011T000930SQUARE.png_20231011000932.png" tvg-chno="1038" group-title="News & Opinion" , CBS News Bay Area
-https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700019N0" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20231114T233525SQUARE.png_20231114233526.png" tvg-chno="1039" group-title="News & Opinion" , FOX 2 San Francisco
-https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300002TU" tvg-id="USBD300002TU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300002TU_20230809T005359SQUARE.png_20230809005400.png" tvg-chno="1051" group-title="Entertainment" , ION
-https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300022FH" tvg-id="USBD300022FH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300022FH_20230627T214932SQUARE.png_20230627214933.png" tvg-chno="1053" group-title="Entertainment" , ALLBLK Gems
-https://i.mjh.nz/SamsungTVPlus/USBD300022FH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2500012DH" tvg-id="USBD2500012DH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20240213T215408SQUARE.png_20240213215409.png" tvg-chno="1054" group-title="Entertainment" , EBONY TV by Lionsgate
-https://i.mjh.nz/SamsungTVPlus/USBD2500012DH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500002FL" tvg-id="USBB3500002FL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20221109T013433SQUARE.png_20221109013434.png" tvg-chno="1055" group-title="Entertainment" , TV Land Drama
-https://i.mjh.nz/SamsungTVPlus/USBB3500002FL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2900003O3" tvg-id="USBB2900003O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900003O3_20240213T215326SQUARE.png_20240213215327.png" tvg-chno="1058" group-title="Entertainment" , Heartland
-https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC450000130" tvg-id="USBC450000130" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC450000130_20230125T022236SQUARE.png_20230125022237.png" tvg-chno="1059" group-title="Entertainment" , BET Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBC450000130.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ26000015Y" tvg-id="USAJ26000015Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000015Y_20221109T013415SQUARE.png_20221109013415.png" tvg-chno="1060" group-title="Entertainment" , Drama Life
-https://i.mjh.nz/SamsungTVPlus/USAJ26000015Y.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300008G1" tvg-id="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20230712T001620SQUARE.png_20230712001620.png" tvg-chno="1061" group-title="Entertainment" , Bounce XL
-https://i.mjh.nz/SamsungTVPlus/USBD300008G1.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300003LK" tvg-id="USBD300003LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300003LK_20230712T001640SQUARE.png_20230712001641.png" tvg-chno="1062" group-title="Entertainment" , ION Plus
-https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA2000001BR" tvg-id="USBA2000001BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2000001BR_20220525T030057SQUARE.png_20220525030057.png" tvg-chno="1063" group-title="Entertainment" , Baywatch
-https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB320000397" tvg-id="USBB320000397" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000397_20221109T013553SQUARE.png_20221109013554.png" tvg-chno="1066" group-title="Entertainment" , 21 Jump Street
-https://i.mjh.nz/SamsungTVPlus/USBB320000397.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700010XU" tvg-id="USBD700010XU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700010XU_20230523T230730SQUARE.png_20230523230731.png" tvg-chno="1067" group-title="Entertainment" , Degrassi
-https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000044BJ" tvg-id="USBA3000044BJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000044BJ_20230523T230704SQUARE.png_20230523230705.png" tvg-chno="1068" group-title="Entertainment" , Lucky Dog
-https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700012OA" tvg-id="USBD700012OA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700012OA_20230627T215017SQUARE.png_20230627215018.png" tvg-chno="1069" group-title="Entertainment" , The Bob Ross Channel
-https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800005NI" tvg-id="USBA3800005NI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20230809T005143SQUARE.png_20230809005144.png" tvg-chno="1070" group-title="Entertainment" , Clarity 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC6000225M" tvg-id="USBC6000225M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000225M_20230509T224426SQUARE.png_20230509224426.png" tvg-chno="1074" group-title="Entertainment" , ElectricNOW
-https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000022E" tvg-id="USAJ34000022E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000022E_20230614T000430SQUARE.png_20230614000431.png" tvg-chno="1078" group-title="Entertainment" , Nosey
-https://i.mjh.nz/SamsungTVPlus/USAJ34000022E.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300006A6" tvg-id="USBD300006A6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300006A6_20230307T222319SQUARE.png_20230307222319.png" tvg-chno="1079" group-title="Entertainment" , Divorce Court
-https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300035FV" tvg-id="USBA300035FV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20221116T013347SQUARE.png_20221116013347.png" tvg-chno="1082" group-title="Entertainment" , Circle
-https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD70000412" tvg-id="USBD70000412" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000412_20240131T021349SQUARE.png_20240131021350.png" tvg-chno="1083" group-title="Entertainment" , 4UV
-https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1000004G8" tvg-id="USBC1000004G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000004G8_20231011T001146SQUARE.png_20231011001148.png" tvg-chno="1084" group-title="Entertainment" , Shades of Black
-https://i.mjh.nz/SamsungTVPlus/USBC1000004G8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC10000129R" tvg-id="USBC10000129R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000129R_20230208T100250SQUARE.png_20230208100251.png" tvg-chno="1085" group-title="Entertainment" , Backstage
-https://i.mjh.nz/SamsungTVPlus/USBC10000129R.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1900006NY" tvg-id="USBB1900006NY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900006NY_20230208T100239SQUARE.png_20230208100240.png" tvg-chno="1086" group-title="Entertainment" , VICE
-https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800003VP" tvg-id="USBA3800003VP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800003VP_20230125T022154SQUARE.png_20230125022155.png" tvg-chno="1089" group-title="Entertainment" , Revry
-https://i.mjh.nz/SamsungTVPlus/USBA3800003VP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200021JM" tvg-id="USBD1200021JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20230627T215014SQUARE.png_20230627215015.png" tvg-chno="1090" group-title="Entertainment" , Shout! Factory
-https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700016JY" tvg-id="USBD700016JY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700016JY_20230426T030450SQUARE.png_20230426030451.png" tvg-chno="1091" group-title="Entertainment" , Dove Channel
-https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100007I2" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20230222T041245SQUARE.png_20230222041245.png" tvg-chno="1092" group-title="Entertainment" , Chicken Soup for the Soul
-https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB19000017U" tvg-id="USBB19000017U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB19000017U_20230925T234647SQUARE.png_20230925234648.png" tvg-chno="1094" group-title="Entertainment" , Highway to Heaven
-https://i.mjh.nz/SamsungTVPlus/USBB19000017U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2900001P9" tvg-id="USBB2900001P9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20230912T232451SQUARE.png_20230912232452.png" tvg-chno="1095" group-title="Entertainment" , K-Stories by CJ ENM
-https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ22000130U" tvg-id="USAJ22000130U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000130U_20221116T013413SQUARE.png_20221116013414.png" tvg-chno="1096" group-title="Entertainment" , MHz Now
-https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200020QF" tvg-id="USBC3200020QF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200020QF_20230731T021946SQUARE.png_20230731021947.png" tvg-chno="1098" group-title="Entertainment" , Cowboy Way
-https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC240001823" tvg-id="USBC240001823" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20221109T013456SQUARE.png_20221109013457.png" tvg-chno="1101" group-title="Entertainment" , Brat TV
-https://i.mjh.nz/SamsungTVPlus/USBC240001823.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3700002JF" tvg-id="USBA3700002JF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20240131T021358SQUARE.png_20240131021359.png" tvg-chno="1103" group-title="Entertainment" , ET
-https://i.mjh.nz/SamsungTVPlus/USBA3700002JF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300032J7" tvg-id="USBA300032J7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20221116T013353SQUARE.png_20221116013353.png" tvg-chno="1104" group-title="Entertainment" , FOX SOUL
-https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200030CG" tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20230125T022152SQUARE.png_20230125022153.png" tvg-chno="1106" group-title="Entertainment" , The Rotten Tomatoes Channel
-https://i.mjh.nz/SamsungTVPlus/USBB3200030CG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2400015DO" tvg-id="USBC2400015DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400015DO_20221109T013502SQUARE.png_20221109013503.png" tvg-chno="1107" group-title="Entertainment" , Hollywire
-https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD70000213" tvg-id="USBD70000213" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20230823T001754SQUARE.png_20230823001755.png" tvg-chno="1108" group-title="Entertainment" , TMZ
-https://i.mjh.nz/SamsungTVPlus/USBD70000213.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC24000223S" tvg-id="USBC24000223S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000223S_20231212T214347SQUARE.png_20231212214348.png" tvg-chno="1113" group-title="Crime" , ION Mystery
-https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700008H9" tvg-id="USBD1700008H9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700008H9_20231011T001220SQUARE.png_20231011001221.png" tvg-chno="1115" group-title="Crime" , I Survived…
-https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1000002NP" tvg-id="USBC1000002NP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20230823T001630SQUARE.png_20230823001631.png" tvg-chno="1121" group-title="Crime" , World’s Most Evil Killers
-https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD42000073E" tvg-id="USBD42000073E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000073E_20240213T215402SQUARE.png_20240213215403.png" tvg-chno="1122" group-title="Crime" , 60 Days In by A&E
-https://i.mjh.nz/SamsungTVPlus/USBD42000073E.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200001MG" tvg-id="USBB3200001MG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20230731T021942SQUARE.png_20230731021942.png" tvg-chno="1125" group-title="Entertainment" , REELZ Famous & Infamous
-https://i.mjh.nz/SamsungTVPlus/USBB3200001MG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB52000236D" tvg-id="USBB52000236D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000236D_20221214T015024SQUARE.png_20221214015024.png" tvg-chno="1127" group-title="Crime" , Crime ThrillHer
-https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200004X3" tvg-id="USBB3200004X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200004X3_20221109T013413SQUARE.png_20221109013413.png" tvg-chno="1128" group-title="Crime" , Dr. G: Medical Examiner
-https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200022PY" tvg-id="USBB5200022PY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200022PY_20231024T234717SQUARE.png_20231024234719.png" tvg-chno="1129" group-title="Crime" , Crimes Cults Killers
-https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200017MY" tvg-id="USBB3200017MY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200017MY_20221026T004941SQUARE.png_20221026004941.png" tvg-chno="1131" group-title="Crime" , Forensic Files
-https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508710A" tvg-id="USAK3508710A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508710A_20240131T021403SQUARE.png_20240131021403.png" tvg-chno="1132" group-title="Crime" , Law & Crime
-https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA34000049Z" tvg-id="USBA34000049Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA34000049Z_20240116T231055SQUARE.png_20240116231056.png" tvg-chno="1133" group-title="Crime" , Court TV
-https://i.mjh.nz/SamsungTVPlus/USBA34000049Z.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC390002256" tvg-id="USBC390002256" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC390002256_20221214T015020SQUARE.png_20221214015020.png" tvg-chno="1134" group-title="Crime" , Cold Case Files
-https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200018Q6" tvg-id="USBB3200018Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200018Q6_20221109T013504SQUARE.png_20221109013504.png" tvg-chno="1135" group-title="Crime" , Unsolved Mysteries
-https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504547A" tvg-id="USAJ3504547A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504547A_20230131T052050SQUARE.png_20230131052051.png" tvg-chno="1136" group-title="Crime" , The New Detectives
-https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC24000134A" tvg-id="USBC24000134A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000134A_20221214T015051SQUARE.png_20221214015052.png" tvg-chno="1137" group-title="Crime" , Midsomer Murders
-https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200007BY" tvg-id="USBB5200007BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200007BY_20230222T041303SQUARE.png_20230222041303.png" tvg-chno="1138" group-title="Crime" , Dateline 24/7
-https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700021WG" tvg-id="USBD700021WG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20230426T030437SQUARE.png_20230426030437.png" tvg-chno="1139" group-title="Game Shows" , BUZZR
-https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400012FA" tvg-id="USAJ3400012FA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400012FA_20220525T030137SQUARE.png_20220525030137.png" tvg-chno="1141" group-title="Game Shows" , Game Show Central
-https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC44000087O" tvg-id="USBC44000087O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000087O_20240213T215345SQUARE.png_20240213215346.png" tvg-chno="1142" group-title="Game Shows" , Supermarket Sweep
-https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400017N3" tvg-id="USBB4400017N3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400017N3_20231024T231653SQUARE.png_20231024231654.png" tvg-chno="1143" group-title="Game Shows" , Deal or No Deal
-https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000100X" tvg-id="USBA3000100X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000100X_20230131T052057SQUARE.png_20230131052057.png" tvg-chno="1147" group-title="Game Shows" , Wild 'N Out
-https://i.mjh.nz/SamsungTVPlus/USBA3000100X.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4800005VO" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20221116T013447SQUARE.png_20221116013447.png" tvg-chno="1152" group-title="Sports" , CBS Sports HQ
-https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600001QL" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20231114T233515SQUARE.png_20231114233516.png" tvg-chno="1154" group-title="Sports" , T2
-https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB400000145" tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20230307T222309SQUARE.png_20230307222310.png" tvg-chno="1155" group-title="Sports" , GOLFPASS
-https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000255B" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20231229T003220SQUARE.png_20231229003221.png" tvg-chno="1156" group-title="Sports" , FIFA+
-https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ4300001Q7" tvg-id="USAJ4300001Q7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300001Q7_20231114T233437SQUARE.png_20231114233438.png" tvg-chno="1157" group-title="Sports" , beIN SPORTS XTRA
-https://i.mjh.nz/SamsungTVPlus/USAJ4300001Q7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200023Z0" tvg-id="USAJ2200023Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20231114T233434SQUARE.png_20231114233435.png" tvg-chno="1158" group-title="Sports" , fubo Sports Network
-https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504705A" tvg-id="USAJ3504705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504705A_20230125T022058SQUARE.png_20230125022059.png" tvg-chno="1159" group-title="Sports" , Stadium
-https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300031OT" tvg-id="USBA300031OT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300031OT_20230125T022143SQUARE.png_20230125022143.png" tvg-chno="1160" group-title="Sports" , SportsGrid
-https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300034DB" tvg-id="USBA300034DB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300034DB_20230125T022145SQUARE.png_20230125022146.png" tvg-chno="1161" group-title="Sports" , Pac-12 Insider
-https://i.mjh.nz/SamsungTVPlus/USBA300034DB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD25000161U" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20230823T001638SQUARE.png_20230823001639.png" tvg-chno="1162" group-title="Sports" , ACC Digital Network
-https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200010I8" tvg-id="USBD1200010I8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200010I8_20230523T230753SQUARE.png_20230523230754.png" tvg-chno="1163" group-title="Sports" , Origin Sports
-https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000001XP" tvg-id="USBB1000001XP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20230125T022156SQUARE.png_20230125022157.png" tvg-chno="1164" group-title="Sports" , IMPACT Wrestling
-https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300021B8" tvg-id="USBD300021B8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300021B8_20230426T030511SQUARE.png_20230426030512.png" tvg-chno="1166" group-title="Sports" , MSG SportsZone
-https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700013BW" tvg-id="USBD700013BW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700013BW_20230912T232600SQUARE.png_20230912232600.png" tvg-chno="1168" group-title="Sports" , DraftKings Network
-https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400015BY" tvg-id="USAJ3400015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400015BY_20230125T022209SQUARE.png_20230125022210.png" tvg-chno="1181" group-title="Sports" , People Are Awesome
-https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200016QR" tvg-id="USBD4200016QR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200016QR_20240131T021433SQUARE.png_20240131021434.png" tvg-chno="1184" group-title="Sports" , PickleballTV
-https://i.mjh.nz/SamsungTVPlus/USBD4200016QR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000183X" tvg-id="USBD12000183X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20230627T214943SQUARE.png_20230627214943.png" tvg-chno="1186" group-title="Sports" , Billiard TV
-https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700009P5" tvg-id="USBD1700009P5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20230823T001758SQUARE.png_20230823001759.png" tvg-chno="1187" group-title="Sports" , World Poker Tour
-https://i.mjh.nz/SamsungTVPlus/USBD1700009P5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2400027NG" tvg-id="USBC2400027NG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230627T214919SQUARE.png_20230627214920.png" tvg-chno="1189" group-title="Sports" , Top Gear
-https://i.mjh.nz/SamsungTVPlus/USBC2400027NG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700019RN" tvg-id="USBD1700019RN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700019RN_20230823T001733SQUARE.png_20230823001734.png" tvg-chno="1190" group-title="Sports" , MAVTV Select
-https://i.mjh.nz/SamsungTVPlus/USBD1700019RN.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2500017XQ" tvg-id="USBD2500017XQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500017XQ_20230925T234811SQUARE.png_20230925234812.png" tvg-chno="1191" group-title="Sports" , POWERNATION
-https://i.mjh.nz/SamsungTVPlus/USBD2500017XQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600005U9" tvg-id="USBC3600005U9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600005U9_20230222T041507SQUARE.png_20230222041508.png" tvg-chno="1192" group-title="Sports" , MotorTrend FAST TV
-https://i.mjh.nz/SamsungTVPlus/USBC3600005U9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200019WF" tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20230125T022114SQUARE.png_20230125022115.png" tvg-chno="1193" group-title="Sports" , NHRA TV
-https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200011W4" tvg-id="USBD4200011W4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20231212T214337SQUARE.png_20231212214338.png" tvg-chno="1194" group-title="Sports" , Hagerty
-https://i.mjh.nz/SamsungTVPlus/USBD4200011W4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504545A" tvg-id="USAJ3504545A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20230125T022032SQUARE.png_20230125022033.png" tvg-chno="1195" group-title="Sports" , Cars
-https://i.mjh.nz/SamsungTVPlus/USAJ3504545A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200027Z5" tvg-id="USBB5200027Z5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200027Z5_20221214T015045SQUARE.png_20221214015045.png" tvg-chno="1196" group-title="Sports" , Torque
-https://i.mjh.nz/SamsungTVPlus/USBB5200027Z5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD7000189R" tvg-id="USBD7000189R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000189R_20240213T215339SQUARE.png_20240213215340.png" tvg-chno="1201" group-title="Food‚ Home & Travel" , Tastemade
-https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC44000226R" tvg-id="USBC44000226R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000226R_20231024T231627SQUARE.png_20231024231628.png" tvg-chno="1202" group-title="Food‚ Home & Travel" , Bon Appétit
-https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508724A" tvg-id="USAK3508724A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508724A_20240131T023405SQUARE.png_20240131023407.png" tvg-chno="1203" group-title="Food‚ Home & Travel" , Gusto TV
-https://i.mjh.nz/SamsungTVPlus/USAK3508724A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800002KI" tvg-id="USBA3800002KI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800002KI_20230125T022606SQUARE.png_20230125022607.png" tvg-chno="1204" group-title="Food‚ Home & Travel" , America's Test Kitchen
-https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400016CL" tvg-id="USBC4400016CL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400016CL_20230222T041315SQUARE.png_20230222041316.png" tvg-chno="1205" group-title="Food‚ Home & Travel" , Jamie Oliver
-https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200017GS" tvg-id="USBD4200017GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200017GS_20240213T215426SQUARE.png_20240213215427.png" tvg-chno="1207" group-title="Food‚ Home & Travel" , PBS Antiques Roadshow
-https://i.mjh.nz/SamsungTVPlus/USBD4200017GS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000006X5" tvg-id="USAJ3000006X5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000006X5_20231011T001102SQUARE.png_20231011001103.png" tvg-chno="1208" group-title="Food‚ Home & Travel" , Home.Made.Nation
-https://i.mjh.nz/SamsungTVPlus/USAJ3000006X5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC21000142T" tvg-id="USBC21000142T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC21000142T_20240116T231205SQUARE.png_20240116231206.png" tvg-chno="1209" group-title="Food‚ Home & Travel" , Home Refresh
-https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200024V5" tvg-id="USBB3200024V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200024V5_20220712T041426SQUARE.png_20220712041426.png" tvg-chno="1210" group-title="Food‚ Home & Travel" , Million Dollar Listing
-https://i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400020KC" tvg-id="USAJ3400020KC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400020KC_20230627T214906SQUARE.png_20230627214907.png" tvg-chno="1211" group-title="Food‚ Home & Travel" , Tiny House Nation
-https://i.mjh.nz/SamsungTVPlus/USAJ3400020KC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600018CF" tvg-id="USBC600018CF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600018CF_20230627T214911SQUARE.png_20230627214912.png" tvg-chno="1212" group-title="Food‚ Home & Travel" , Antiques Roadshow
-https://i.mjh.nz/SamsungTVPlus/USBC600018CF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC13000065U" tvg-id="USBC13000065U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC13000065U_20220525T030032SQUARE.png_20220525030032.png" tvg-chno="1213" group-title="Food‚ Home & Travel" , This Old House
-https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1300005T6" tvg-id="USBC1300005T6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300005T6_20230125T022539SQUARE.png_20230125022540.png" tvg-chno="1214" group-title="Food‚ Home & Travel" , This Old House Makers
-https://i.mjh.nz/SamsungTVPlus/USBC1300005T6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200022S1" tvg-id="USBD1200022S1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200022S1_20230627T215019SQUARE.png_20230627215020.png" tvg-chno="1215" group-title="Food‚ Home & Travel" , The Design Network
-https://i.mjh.nz/SamsungTVPlus/USBD1200022S1.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200008RS" tvg-id="USBD4200008RS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200008RS_20240131T021425SQUARE.png_20240131021426.png" tvg-chno="1216" group-title="Food‚ Home & Travel" , Flipping Nation by A&E
-https://i.mjh.nz/SamsungTVPlus/USBD4200008RS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700022M5" tvg-id="USBD700022M5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700022M5_20230627T214909SQUARE.png_20230627214910.png" tvg-chno="1217" group-title="Food‚ Home & Travel" , Homeful
-https://i.mjh.nz/SamsungTVPlus/USBD700022M5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD25000138Y" tvg-id="USBD25000138Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20230925T234734SQUARE.png_20230925234735.png" tvg-chno="1218" group-title="Food‚ Home & Travel" , At Home with Family Handyman
-https://i.mjh.nz/SamsungTVPlus/USBD25000138Y.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3200022W6" tvg-id="USBC3200022W6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240213T215337SQUARE.png_20240213215337.png" tvg-chno="1219" group-title="Food‚ Home & Travel" , Tastemade Home
-https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700017WC" tvg-id="USBD700017WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240213T215342SQUARE.png_20240213215343.png" tvg-chno="1220" group-title="Food‚ Home & Travel" , Tastemade Travel
-https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000003HL" tvg-id="USBB1000003HL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000003HL_20231011T001108SQUARE.png_20231011001109.png" tvg-chno="1221" group-title="Food‚ Home & Travel" , Journy
-https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB40000028E" tvg-id="USBB40000028E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20230912T232539SQUARE.png_20230912232541.png" tvg-chno="1222" group-title="Food‚ Home & Travel" , NBC LX Home
-https://i.mjh.nz/SamsungTVPlus/USBB40000028E.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200009C2" tvg-id="USAJ2200009C2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200009C2_20230925T234649SQUARE.png_20230925234651.png" tvg-chno="1225" group-title="Food‚ Home & Travel" , Hungry
-https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400005HY" tvg-id="USBC4400005HY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400005HY_20230125T022520SQUARE.png_20230125022521.png" tvg-chno="1226" group-title="Food‚ Home & Travel" , Localish
-https://i.mjh.nz/SamsungTVPlus/USBC4400005HY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC600017FG" tvg-id="USBC600017FG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600017FG_20230627T214916SQUARE.png_20230627214917.png" tvg-chno="1228" group-title="Food‚ Home & Travel" , BBC Home & Garden
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC6000108Z" tvg-id="USBC6000108Z" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000108Z_20230627T214914SQUARE.png_20230627214915.png" tvg-chno="1229" group-title="Food‚ Home & Travel" , BBC Food
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400016F9" tvg-id="USBB4400016F9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400016F9_20230809T005337SQUARE.png_20230809005338.png" tvg-chno="1230" group-title="Reality TV" , All-Out Reality
-https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500031F3" tvg-id="USBD3500031F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20231229T003158SQUARE.png_20231229003159.png" tvg-chno="1231" group-title="Reality TV" , Cheaters
-https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB520002604" tvg-id="USBB520002604" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002604_20230809T005410SQUARE.png_20230809005411.png" tvg-chno="1232" group-title="Reality TV" , Perform
-https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB52000246M" tvg-id="USBB52000246M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000246M_20230614T000437SQUARE.png_20230614000438.png" tvg-chno="1233" group-title="Reality TV" , Deal Zone
-https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC6000219D" tvg-id="USBC6000219D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC6000219D_20230809T005407SQUARE.png_20230809005408.png" tvg-chno="1235" group-title="Reality TV" , Operation Repo
-https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD170000771" tvg-id="USBD170000771" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD170000771_20231024T231721SQUARE.png_20231024231722.png" tvg-chno="1236" group-title="Reality TV" , Little Women: LA
-https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3900021HS" tvg-id="USBC3900021HS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900021HS_20230809T005343SQUARE.png_20230809005344.png" tvg-chno="1237" group-title="Reality TV" , Dance Moms
-https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC440000193" tvg-id="USBC440000193" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC440000193_20230809T005404SQUARE.png_20230809005405.png" tvg-chno="1238" group-title="Reality TV" , Matched Married Meet
-https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000061R" tvg-id="USBD12000061R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000061R_20230627T214935SQUARE.png_20230627214936.png" tvg-chno="1239" group-title="Reality TV" , All Reality WE tv
-https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
-
-#EXTINF:-1 channel-id="samsung-US300003S3" tvg-id="US300003S3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20240227T221100SQUARE.png_20240227221101.png" tvg-chno="1240" group-title="Reality TV" , Pawn Stars
-https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000042O6" tvg-id="USBA3000042O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20220928T005202SQUARE.png_20220928005203.png" tvg-chno="1241" group-title="Reality TV" , Kitchen Nightmares
-https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500041ZF" tvg-id="USBD3500041ZF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500041ZF_20240116T231140SQUARE.png_20240116231140.png" tvg-chno="1242" group-title="Reality TV" , American Pickers by History
-https://i.mjh.nz/SamsungTVPlus/USBD3500041ZF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500040WX" tvg-id="USBD3500040WX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500040WX_20231212T214349SQUARE.png_20231212214350.png" tvg-chno="1243" group-title="Reality TV" , Intervention by A&E
-https://i.mjh.nz/SamsungTVPlus/USBD3500040WX.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD4200009Y4" tvg-id="USBD4200009Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200009Y4_20231212T214342SQUARE.png_20231212214343.png" tvg-chno="1244" group-title="Reality TV" , Hoarders by A&E
-https://i.mjh.nz/SamsungTVPlus/USBD4200009Y4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000093U" tvg-id="USBA3000093U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000093U_20230131T052036SQUARE.png_20230131052037.png" tvg-chno="1245" group-title="Reality TV" , MTV Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300020WC" tvg-id="USBA300020WC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300020WC_20230131T052031SQUARE.png_20230131052032.png" tvg-chno="1246" group-title="Reality TV" , Love & Hip Hop
-https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000040J" tvg-id="USBD17000040J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000040J_20240227T221107SQUARE.png_20240227221107.png" tvg-chno="1247" group-title="Reality TV" , Bring It!
-https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300004TE" tvg-id="USBA300004TE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300004TE_20230125T022450SQUARE.png_20230125022451.png" tvg-chno="1248" group-title="Reality TV" , Dallas Cowboys Cheer
-https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200005XR" tvg-id="USBD1200005XR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200005XR_20230809T005334SQUARE.png_20230809005335.png" tvg-chno="1250" group-title="Reality TV" , All Weddings WE tv
-https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300022JX" tvg-id="USBA300022JX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300022JX_20230809T005213SQUARE.png_20230809005214.png" tvg-chno="1251" group-title="Reality TV" , INFAST
-https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD7000017L" tvg-id="USBD7000017L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000017L_20230523T230719SQUARE.png_20230523230720.png" tvg-chno="1253" group-title="Latino" , AMC en Español
-https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700016X9" tvg-id="USBD1700016X9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700016X9_20230912T232525SQUARE.png_20230912232526.png" tvg-chno="1254" group-title="Latino" , Zona TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400020H7" tvg-id="USBC4400020H7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20230322T000014SQUARE.png_20230322000014.png" tvg-chno="1255" group-title="Latino" , Telemundo California
-https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200016HO" tvg-id="USBB3200016HO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20230321T235911SQUARE.png_20230321235912.png" tvg-chno="1256" group-title="Latino" , Telemundo Al Día
-https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC10000223W" tvg-id="USBC10000223W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC10000223W_20230321T235932SQUARE.png_20230321235933.png" tvg-chno="1257" group-title="Latino" , CNN RESUMEN
-https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300040WR" tvg-id="USBA300040WR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300040WR_20230321T235852SQUARE.png_20230321235852.png" tvg-chno="1258" group-title="Latino" , Estrella TV
-https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ2200020N4" tvg-id="USAJ2200020N4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200020N4_20230321T235850SQUARE.png_20230321235850.png" tvg-chno="1259" group-title="Latino" , Estrella News
-https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC24000145I" tvg-id="USBC24000145I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000145I_20230321T235935SQUARE.png_20230321235935.png" tvg-chno="1260" group-title="Latino" , Estrella Games
-https://i.mjh.nz/SamsungTVPlus/USBC24000145I.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504719A" tvg-id="USAJ3504719A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504719A_20230321T235906SQUARE.png_20230321235907.png" tvg-chno="1261" group-title="Latino" , Sony Canal Competencias
-https://i.mjh.nz/SamsungTVPlus/USAJ3504719A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ22000057N" tvg-id="USAJ22000057N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ22000057N_20230712T001605SQUARE.png_20230712001606.png" tvg-chno="1262" group-title="Latino" , Sony Canal Comedias
-https://i.mjh.nz/SamsungTVPlus/USAJ22000057N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000002OC" tvg-id="USAJ3000002OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000002OC_20230321T235909SQUARE.png_20230321235909.png" tvg-chno="1263" group-title="Latino" , Sony Canal Novelas
-https://i.mjh.nz/SamsungTVPlus/USAJ3000002OC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC39000080S" tvg-id="USBC39000080S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000080S_20230823T001650SQUARE.png_20230823001651.png" tvg-chno="1264" group-title="Latino" , Canela.TV
-https://i.mjh.nz/SamsungTVPlus/USBC39000080S.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB44000099N" tvg-id="USBB44000099N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB44000099N_20230925T234723SQUARE.png_20230925234724.png" tvg-chno="1265" group-title="Latino" , ViX Novelas de romance
-https://i.mjh.nz/SamsungTVPlus/USBB44000099N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000172A" tvg-id="USBD17000172A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000172A_20230912T232520SQUARE.png_20230912232521.png" tvg-chno="1266" group-title="Latino" , Las 3 Marías
-https://i.mjh.nz/SamsungTVPlus/USBD17000172A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100012EJ" tvg-id="USBC2100012EJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100012EJ_20230925T234712SQUARE.png_20230925234714.png" tvg-chno="1267" group-title="Latino" , ViX Grandes Parejas
-https://i.mjh.nz/SamsungTVPlus/USBC2100012EJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100011WI" tvg-id="USBC2100011WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100011WI_20230925T234719SQUARE.png_20230925234721.png" tvg-chno="1268" group-title="Latino" , ViX Villanos de Novela
-https://i.mjh.nz/SamsungTVPlus/USBC2100011WI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100010OS" tvg-id="USBC2100010OS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100010OS_20230925T234715SQUARE.png_20230925234717.png" tvg-chno="1269" group-title="Latino" , ViX JaJaJa
-https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700018II" tvg-id="USBD1700018II" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700018II_20230912T232625SQUARE.png_20230912232626.png" tvg-chno="1270" group-title="Latino" , Rebelde
-https://i.mjh.nz/SamsungTVPlus/USBD1700018II.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700002DU" tvg-id="USBD2700002DU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700002DU_20230912T232610SQUARE.png_20230912232611.png" tvg-chno="1271" group-title="Latino" , Galanes
-https://i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2500022U5" tvg-id="USBD2500022U5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500022U5_20230912T232517SQUARE.png_20230912232518.png" tvg-chno="1272" group-title="Latino" , Cine Retro
-https://i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700005KL" tvg-id="USBD2700005KL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700005KL_20230912T232554SQUARE.png_20230912232555.png" tvg-chno="1273" group-title="Latino" , Cine de Oro
-https://i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700004ME" tvg-id="USBD2700004ME" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700004ME_20230912T232557SQUARE.png_20230912232558.png" tvg-chno="1274" group-title="Latino" , Como Dice el Dicho
-https://i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700003F3" tvg-id="USBD2700003F3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700003F3_20230912T232622SQUARE.png_20230912232623.png" tvg-chno="1275" group-title="Latino" , Pequenos Gigantes
-https://i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700015J1" tvg-id="USBD1700015J1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700015J1_20230912T232514SQUARE.png_20230912232515.png" tvg-chno="1276" group-title="Latino" , Aquí y Ahora
-https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700014QU" tvg-id="USBD1700014QU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700014QU_20230912T232523SQUARE.png_20230912232524.png" tvg-chno="1277" group-title="Latino" , Noticias Univision 24/7
-https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800001E0" tvg-id="USBA3800001E0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20230125T022604SQUARE.png_20230125022605.png" tvg-chno="1283" group-title="Latino" , Cine Romantico
-https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ1700009QJ" tvg-id="USAJ1700009QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ1700009QJ_20240213T215359SQUARE.png_20240213215400.png" tvg-chno="1284" group-title="Latino" , FreeTV Estelar
-https://i.mjh.nz/SamsungTVPlus/USAJ1700009QJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400002GF" tvg-id="USBC4400002GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400002GF_20230823T001658SQUARE.png_20230823001659.png" tvg-chno="1303" group-title="Adventure & Outdoor" , Duck Dynasty
-https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700013UK" tvg-id="USBD2700013UK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700013UK_20231129T022323SQUARE.png_20231129022324.png" tvg-chno="1304" group-title="Adventure & Outdoor" , Swamp People
-https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000051M" tvg-id="USBD17000051M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000051M_20230912T232616SQUARE.png_20230912232617.png" tvg-chno="1305" group-title="Adventure & Outdoor" , Mountain Men
-https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200020Z0" tvg-id="USBB5200020Z0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200020Z0_20230809T005340SQUARE.png_20230809005341.png" tvg-chno="1306" group-title="Adventure & Outdoor" , Ax Men
-https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504708A" tvg-id="USAJ3504708A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504708A_20231229T003210SQUARE.png_20231229003211.png" tvg-chno="1309" group-title="Adventure & Outdoor" , DangerTV
-https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB10000058A" tvg-id="USBB10000058A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000058A_20230809T005250SQUARE.png_20230809005251.png" tvg-chno="1310" group-title="Adventure & Outdoor" , SURF NOW TV
-https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504707A" tvg-id="USAJ3504707A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504707A_20230809T005233SQUARE.png_20230809005234.png" tvg-chno="1311" group-title="Adventure & Outdoor" , Outside
-https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508706A" tvg-id="USAK3508706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20230809T005319SQUARE.png_20230809005320.png" tvg-chno="1313" group-title="Adventure & Outdoor" , Xtreme Outdoor Presented by HISTORY
-https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB440002055" tvg-id="USBB440002055" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB440002055_20230809T005433SQUARE.png_20230809005433.png" tvg-chno="1315" group-title="Adventure & Outdoor" , Waypoint TV
-https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000025J" tvg-id="USBD17000025J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000025J_20230823T183916SQUARE.png_20230823183917.png" tvg-chno="1316" group-title="Adventure & Outdoor" , Pursuit UP
-https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200020Y4" tvg-id="USBD1200020Y4" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200020Y4_20231024T231724SQUARE.png_20231024231725.png" tvg-chno="1317" group-title="Adventure & Outdoor" , Outdoor America
-https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD120001614" tvg-id="USBD120001614" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120001614_20240116T231142SQUARE.png_20240116231143.png" tvg-chno="1318" group-title="Comedy" , Conan O'Brien TV
-https://i.mjh.nz/SamsungTVPlus/USBD120001614.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400004KK" tvg-id="USBC4400004KK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20230307T222324SQUARE.png_20230307222325.png" tvg-chno="1321" group-title="Comedy" , Just for Laughs GAGS
-https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500003D6" tvg-id="USBB3500003D6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500003D6_20230125T022452SQUARE.png_20230125022453.png" tvg-chno="1324" group-title="Comedy" , Family Ties
-https://i.mjh.nz/SamsungTVPlus/USBB3500003D6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1300009VM" tvg-id="USBC1300009VM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20240227T221055SQUARE.png_20240227221056.png" tvg-chno="1325" group-title="Comedy" , LOL! Network
-https://i.mjh.nz/SamsungTVPlus/USBC1300009VM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300019WF" tvg-id="USBA300019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300019WF_20230125T022457SQUARE.png_20230125022458.png" tvg-chno="1326" group-title="Comedy" , TV Land Sitcoms
-https://i.mjh.nz/SamsungTVPlus/USBA300019WF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000038K" tvg-id="USBD12000038K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000038K_20230627T215007SQUARE.png_20230627215007.png" tvg-chno="1327" group-title="Comedy" , Portlandia
-https://i.mjh.nz/SamsungTVPlus/USBD12000038K.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504704A" tvg-id="USAJ3504704A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504704A_20230222T041251SQUARE.png_20230222041252.png" tvg-chno="1329" group-title="Comedy" , The Pet Collective
-https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504702A" tvg-id="USAJ3504702A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504702A_20220525T030141SQUARE.png_20220525030142.png" tvg-chno="1330" group-title="Comedy" , FailArmy
-https://i.mjh.nz/SamsungTVPlus/USAJ3504702A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA1600001XM" tvg-id="USBA1600001XM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA1600001XM_20230307T222305SQUARE.png_20230307222306.png" tvg-chno="1332" group-title="Comedy" , Always Funny Videos
-https://i.mjh.nz/SamsungTVPlus/USBA1600001XM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000039U" tvg-id="USAJ30000039U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000039U_20230125T022649SQUARE.png_20230125022650.png" tvg-chno="1334" group-title="Comedy" , Dry Bar Comedy
-https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD7000145C" tvg-id="USBD7000145C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD7000145C_20230426T030439SQUARE.png_20230426030439.png" tvg-chno="1338" group-title="Comedy" , Comedy Dynamics
-https://i.mjh.nz/SamsungTVPlus/USBD7000145C.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504706A" tvg-id="USAJ3504706A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504706A_20230125T022711SQUARE.png_20230125022712.png" tvg-chno="1339" group-title="Comedy" , RiffTrax
-https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2900002Z7" tvg-id="USBB2900002Z7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900002Z7_20230823T001612SQUARE.png_20230823001613.png" tvg-chno="1351" group-title="Reality Competition" , Hell's Kitchen
-https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2300002Q6" tvg-id="USBB2300002Q6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300002Q6_20230809T005154SQUARE.png_20230809005155.png" tvg-chno="1352" group-title="Reality Competition" , Fear Factor
-https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700006T2" tvg-id="USBD1700006T2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700006T2_20230823T183912SQUARE.png_20230823183914.png" tvg-chno="1353" group-title="Reality Competition" , Storage Wars: LA
-https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD27000156I" tvg-id="USBD27000156I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD27000156I_20231031T225124SQUARE.png_20231031225125.png" tvg-chno="1354" group-title="Reality Competition" , Alone By History
-https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD2700014QW" tvg-id="USBD2700014QW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700014QW_20231114T233454SQUARE.png_20231114233455.png" tvg-chno="1355" group-title="Reality Competition" , Forged In Fire
-https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB520002173" tvg-id="USBB520002173" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB520002173_20230809T005401SQUARE.png_20230809005402.png" tvg-chno="1356" group-title="Reality Competition" , Ice Road Truckers
-https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400018LR" tvg-id="USBB4400018LR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400018LR_20231011T001234SQUARE.png_20231011001235.png" tvg-chno="1357" group-title="Reality Competition" , Wipeout Xtra
-https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500001O6" tvg-id="USBB3500001O6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500001O6_20230809T005259SQUARE.png_20230809005300.png" tvg-chno="1358" group-title="Reality Competition" , The Challenge
-https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3500004RC" tvg-id="USBB3500004RC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500004RC_20230809T005244SQUARE.png_20230809005245.png" tvg-chno="1360" group-title="Reality Competition" , Project Runway
-https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA30003672" tvg-id="USBA30003672" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30003672_20230809T005210SQUARE.png_20230809005211.png" tvg-chno="1367" group-title="Reality Competition" , IGN
-https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504531A" tvg-id="USAJ3504531A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20230809T005241SQUARE.png_20230809005242.png" tvg-chno="1369" group-title="Reality Competition" , Pluto TV Pixel World
-https://i.mjh.nz/SamsungTVPlus/USAJ3504531A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000158L" tvg-id="USBA3000158L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20231024T231611SQUARE.png_20231024231613.png" tvg-chno="1374" group-title="Kids" , Nick Pluto TV
-https://i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD42000124T" tvg-id="USBD42000124T" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000124T_20240131T021422SQUARE.png_20240131021423.png" tvg-chno="1377" group-title="Kids" , Fireman Sam
-https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD350002338" tvg-id="USBD350002338" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002338_20231024T231639SQUARE.png_20231024231640.png" tvg-chno="1378" group-title="Kids" , Baby Einstein
-https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500015R5" tvg-id="USBD3500015R5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20231024T231851SQUARE.png_20231024231852.png" tvg-chno="1379" group-title="Kids" , Teletubbies
-https://i.mjh.nz/SamsungTVPlus/USBD3500015R5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300014JM" tvg-id="USBD3300014JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300014JM_20231024T231643SQUARE.png_20231024231644.png" tvg-chno="1380" group-title="Kids" , Barney and Friends
-https://i.mjh.nz/SamsungTVPlus/USBD3300014JM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400013R7" tvg-id="USBC4400013R7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400013R7_20230912T232548SQUARE.png_20230912232549.png" tvg-chno="1381" group-title="Kids" , Bob the Builder
-https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400012QS" tvg-id="USBC4400012QS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400012QS_20230912T232631SQUARE.png_20230912232633.png" tvg-chno="1382" group-title="Kids" , Strawberry Shortcake
-https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB11000015Q" tvg-id="USBB11000015Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB11000015Q_20231229T003206SQUARE.png_20231229003207.png" tvg-chno="1383" group-title="Kids" , Moonbug
-https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000239N" tvg-id="USBD12000239N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000239N_20230627T215009SQUARE.png_20230627215010.png" tvg-chno="1384" group-title="Kids" , Ryan and Friends
-https://i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA2300001S8" tvg-id="USBA2300001S8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA2300001S8_20230809T005418SQUARE.png_20230809005419.png" tvg-chno="1385" group-title="Kids" , The LEGO Channel
-https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
-
-#EXTINF:-1 channel-id="samsung-USBD3300020PM" tvg-id="USBD3300020PM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300020PM_20231024T231750SQUARE.png_20231024231751.png" tvg-chno="1386" group-title="Kids" , Sonic The Hedgehog
-https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD33000180S" tvg-id="USBD33000180S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD33000180S_20231024T231747SQUARE.png_20231024231748.png" tvg-chno="1387" group-title="Kids" , Slugterra
-https://i.mjh.nz/SamsungTVPlus/USBD33000180S.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC44000072I" tvg-id="USBC44000072I" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC44000072I_20230823T001719SQUARE.png_20230823001720.png" tvg-chno="1388" group-title="Kids" , HappyKids
-https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD12000153A" tvg-id="USBD12000153A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000153A_20230523T230801SQUARE.png_20230523230802.png" tvg-chno="1389" group-title="Kids" , pocket.watch
-https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300012VX" tvg-id="USBD3300012VX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300012VX_20231031T225208SQUARE.png_20231031225209.png" tvg-chno="1390" group-title="Kids" , batteryPOP
-https://i.mjh.nz/SamsungTVPlus/USBD3300012VX.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1900004J9" tvg-id="USBB1900004J9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1900004J9_20230125T022733SQUARE.png_20230125022733.png" tvg-chno="1391" group-title="Kids" , Toon Goggles
-https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3600001R6" tvg-id="USBB3600001R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600001R6_20230125T022726SQUARE.png_20230125022727.png" tvg-chno="1392" group-title="Kids" , TG Junior
-https://i.mjh.nz/SamsungTVPlus/USBB3600001R6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300019OU" tvg-id="USBD3300019OU" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20231212T214301SQUARE.png_20231212214302.png" tvg-chno="1393" group-title="Kids" , All Babies Channel
-https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300015BY" tvg-id="USBD3300015BY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300015BY_20231229T003203SQUARE.png_20231229003205.png" tvg-chno="1394" group-title="Kids" , Rainbow Ruby
-https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508716A" tvg-id="USAK3508716A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20230627T214924SQUARE.png_20230627214925.png" tvg-chno="1395" group-title="Kids" , Kidoodle.TV
-https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300013KV" tvg-id="USBD3300013KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300013KV_20231024T231739SQUARE.png_20231024231741.png" tvg-chno="1396" group-title="Kids" , Sensical Jr
-https://i.mjh.nz/SamsungTVPlus/USBD3300013KV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300017XB" tvg-id="USBD3300017XB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300017XB_20231024T231743SQUARE.png_20231024231744.png" tvg-chno="1397" group-title="Kids" , Sensical Makers
-https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2400019EF" tvg-id="USBC2400019EF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400019EF_20230125T022558SQUARE.png_20230125022558.png" tvg-chno="1398" group-title="Kids" , ZooMoo
-https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300016AK" tvg-id="USBD3300016AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300016AK_20231024T231735SQUARE.png_20231024231737.png" tvg-chno="1399" group-title="Kids" , Rev and Roll
-https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3000043LH" tvg-id="USBA3000043LH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000043LH_20230426T030426SQUARE.png_20230426030427.png" tvg-chno="1400" group-title="Science & Nature" , Samsung Wild Life
-https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD35000428O" tvg-id="USBD35000428O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000428O_20231229T003230SQUARE.png_20231229003231.png" tvg-chno="1401" group-title="Science & Nature" , History 365
-https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC39000204J" tvg-id="USBC39000204J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000204J_20221214T015034SQUARE.png_20221214015035.png" tvg-chno="1402" group-title="Science & Nature" , Military Heroes
-https://i.mjh.nz/SamsungTVPlus/USBC39000204J.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200025DO" tvg-id="USBB5200025DO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200025DO_20230125T022513SQUARE.png_20230125022514.png" tvg-chno="1403" group-title="Science & Nature" , Modern Marvels Presented by History
-https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3400003IP" tvg-id="USBA3400003IP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3400003IP_20230131T052034SQUARE.png_20230131052035.png" tvg-chno="1404" group-title="Science & Nature" , Love Nature 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1700001RW" tvg-id="USBD1700001RW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700001RW_20230823T001644SQUARE.png_20230823001645.png" tvg-chno="1405" group-title="Science & Nature" , BBC Earth
-https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200009JI" tvg-id="USBD1200009JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20240116T231125SQUARE.png_20240116231126.png" tvg-chno="1406" group-title="Science & Nature" , History & Warfare Now
-https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100008DP" tvg-id="USBC2100008DP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100008DP_20230125T022549SQUARE.png_20230125022550.png" tvg-chno="1407" group-title="Science & Nature" , Xplore
-https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100009GT" tvg-id="USBC2100009GT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100009GT_20230125T022546SQUARE.png_20230125022547.png" tvg-chno="1408" group-title="Science & Nature" , The Jack Hanna Channel
-https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2400024FN" tvg-id="USBC2400024FN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400024FN_20230125T022544SQUARE.png_20230125022545.png" tvg-chno="1409" group-title="Science & Nature" , Rovr Pets
-https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300023G8" tvg-id="USBA300023G8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300023G8_20230627T214921SQUARE.png_20230627214922.png" tvg-chno="1410" group-title="Science & Nature" , InWonder
-https://i.mjh.nz/SamsungTVPlus/USBA300023G8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ340000677" tvg-id="USAJ340000677" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ340000677_20230912T232537SQUARE.png_20230912232538.png" tvg-chno="1411" group-title="Science & Nature" , Magellan TV Now
-https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3400014LK" tvg-id="USAJ3400014LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3400014LK_20230125T022705SQUARE.png_20230125022706.png" tvg-chno="1412" group-title="Science & Nature" , WeatherSpy
-https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC2100013WI" tvg-id="USBC2100013WI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100013WI_20230726T004510SQUARE.png_20230726004511.png" tvg-chno="1413" group-title="Science & Nature" , TED
-https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500027DS" tvg-id="USBD3500027DS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240227T221023SQUARE.png_20240227221023.png" tvg-chno="1414" group-title="Science & Nature" , ZenLIFE by Stingray
-https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508705A" tvg-id="USAK3508705A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20230125T022716SQUARE.png_20230125022717.png" tvg-chno="1415" group-title="Science & Nature" , Stingray Naturescape
-https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB800001O7" tvg-id="USBB800001O7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB800001O7_20230809T005236SQUARE.png_20230809005236.png" tvg-chno="1416" group-title="Science & Nature" , PBS Digital Studios
-https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB1000002TK" tvg-id="USBB1000002TK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000002TK_20231011T001117SQUARE.png_20231011001118.png" tvg-chno="1417" group-title="Science & Nature" , Loupe 4K
-https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA3800004EL" tvg-id="USBA3800004EL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800004EL_20240116T231159SQUARE.png_20240116231200.png" tvg-chno="1420" group-title="Science & Nature" , Fireplace 4K
-https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500038R6" tvg-id="USBD3500038R6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20231114T233510SQUARE.png_20231114233511.png" tvg-chno="1421" group-title="Science & Nature" , Stingray Holidayscapes
-https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500013DG" tvg-id="USBD3500013DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500013DG_20240227T221016SQUARE.png_20240227221017.png" tvg-chno="1423" group-title="Science & Nature" , Stingray Spa
-https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20231031T225127SQUARE.png_20231031225128.png" tvg-chno="1425" group-title="Sci-Fi & Horror" , Fear Zone
-https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
-
-#EXTINF:-1 channel-id="samsung-US300002BE" tvg-id="US300002BE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300002BE_20240227T221033SQUARE.png_20240227221034.png" tvg-chno="1426" group-title="Sci-Fi & Horror" , Curse of Oak Island
-https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC4400006BR" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20240227T221053SQUARE.png_20240227221054.png" tvg-chno="1428" group-title="Sci-Fi & Horror" , Haunt TV
-https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20230523T230756SQUARE.png_20230523230757.png" tvg-chno="1429" group-title="Sci-Fi & Horror" , OuterSphere
-https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB10000047W" tvg-id="USBB10000047W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB10000047W_20230125T022635SQUARE.png_20230125022636.png" tvg-chno="1430" group-title="Sci-Fi & Horror" , Unidentified
-https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200004NS" tvg-id="USBD1200004NS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200004NS_20231031T225205SQUARE.png_20231031225206.png" tvg-chno="1432" group-title="Sci-Fi & Horror" , The Walking Dead Universe
-https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20230125T022600SQUARE.png_20230125022601.png" tvg-chno="1433" group-title="Sci-Fi & Horror" , The Asylum
-https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC100000630" tvg-id="USBC100000630" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100000630_20230823T001635SQUARE.png_20230823001636.png" tvg-chno="1435" group-title="Sci-Fi & Horror" , Alien Nation by DUST
-https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC100001175" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240131T021347SQUARE.png_20240131021348.png" tvg-chno="1436" group-title="Sci-Fi & Horror" , Horror by ALTER
-https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504502A" tvg-id="USAJ3504502A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20230125T022445SQUARE.png_20230125022445.png" tvg-chno="1440" group-title="Sci-Fi & Horror" , Anime All day
-https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC36000073J" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20221214T015041SQUARE.png_20221214015042.png" tvg-chno="1441" group-title="Sci-Fi & Horror" , RetroCrush
-https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700015LK" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20230426T030513SQUARE.png_20230426030514.png" tvg-chno="1445" group-title="Sci-Fi & Horror" , Midnight Pulp
-https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20231129T022314SQUARE.png_20231129022315.png" tvg-chno="1455" group-title="Movies" , Hallmark Movies & More
-https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20240116T231130SQUARE.png_20240116231131.png" tvg-chno="1456" group-title="Movies" , Movie Favorites by Lifetime
-https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20230726T004507SQUARE.png_20230726004509.png" tvg-chno="1457" group-title="Movies" , MovieSphere
-https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20221214T015058SQUARE.png_20221214015059.png" tvg-chno="1459" group-title="Movies" , FilmRise Free Movies
-https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20230925T234808SQUARE.png_20230925234809.png" tvg-chno="1460" group-title="Movies" , MyTime Movie Network
-https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20221214T015006SQUARE.png_20221214015007.png" tvg-chno="1461" group-title="Movies" , Pluto TV Fantastic
-https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20231011T001126SQUARE.png_20231011001127.png" tvg-chno="1462" group-title="Movies" , Paramount Movie Channel
-https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20221214T015102SQUARE.png_20221214015103.png" tvg-chno="1463" group-title="Movies" , FilmRise Action
-https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3504701A" tvg-id="USAJ3504701A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504701A_20221214T015138SQUARE.png_20221214015139.png" tvg-chno="1466" group-title="Movies" , Documentary+
-https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20221214T015127SQUARE.png_20221214015128.png" tvg-chno="1468" group-title="Movies" , Maverick Black Cinema
-https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20230426T030503SQUARE.png_20230426030503.png" tvg-chno="1474" group-title="Movies" , Gravitas Movies
-https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200015M8" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20221109T013444SQUARE.png_20221109013445.png" tvg-chno="1478" group-title="Movies" , CINEVAULT: Classics
-https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000148W" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240116T231133SQUARE.png_20240116231134.png" tvg-chno="1479" group-title="Movies" , CINEVAULT
-https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAK3508709A" tvg-id="USAK3508709A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508709A_20230222T041212SQUARE.png_20230222041213.png" tvg-chno="1482" group-title="Movies" , CINEVAULT: Westerns
-https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBA300005MK" tvg-id="USBA300005MK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300005MK_20230131T052046SQUARE.png_20230131052047.png" tvg-chno="1484" group-title="Movies" , Pluto TV Westerns
-https://i.mjh.nz/SamsungTVPlus/USBA300005MK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB32000196O" tvg-id="USBB32000196O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20221214T015100SQUARE.png_20221214015101.png" tvg-chno="1488" group-title="Movies" , FilmRise Western
-https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20231229T003209SQUARE.png_20231229003209.png" tvg-chno="1490" group-title="Movies" , NEW KMOVIES
-https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ34000175A" tvg-id="USAJ34000175A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ34000175A_20221214T015136SQUARE.png_20221214015137.png" tvg-chno="1491" group-title="Movies" , The Preview Channel
-https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB320000647" tvg-id="USBB320000647" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB320000647_20231024T231630SQUARE.png_20231024231631.png" tvg-chno="1501" group-title="Music" , XITE 80s Flashback
-https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20231024T231632SQUARE.png_20231024231633.png" tvg-chno="1502" group-title="Music" , XITE 90s Throwback
-https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20231024T231908SQUARE.png_20231024231909.png" tvg-chno="1503" group-title="Music" , XITE Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300006O3" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20231031T225112SQUARE.png_20231031225113.png" tvg-chno="1504" group-title="Music" , XITE Country Today
-https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300011UT" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20231024T231905SQUARE.png_20231024231906.png" tvg-chno="1505" group-title="Music" , XITE Country's Finest
-https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20231024T231914SQUARE.png_20231024231915.png" tvg-chno="1506" group-title="Music" , XITE Nuevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20231024T231922SQUARE.png_20231024231923.png" tvg-chno="1507" group-title="Music" , XITE Siempre Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20231024T231919SQUARE.png_20231024231920.png" tvg-chno="1508" group-title="Music" , XITE R&B Classic Jams
-https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20231024T231621SQUARE.png_20231024231622.png" tvg-chno="1509" group-title="Music" , XITE Rock On
-https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300005EX" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20231024T231911SQUARE.png_20231024231912.png" tvg-chno="1510" group-title="Music" , XITE Icons
-https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20231024T231619SQUARE.png_20231024231619.png" tvg-chno="1511" group-title="Music" , XITE Just Chill
-https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" tvg-chno="1512" group-title="Music" , XITE Only Love
-https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240116T231127SQUARE.png_20240116231128.png" tvg-chno="1513" group-title="Music" , XITE Celebrates
-https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20230322T000018SQUARE.png_20230322000019.png" tvg-chno="1520" group-title="Music" , Vevo '70s
-https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20230322T000021SQUARE.png_20230322000021.png" tvg-chno="1521" group-title="Music" , Vevo '80s
-https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20230322T000023SQUARE.png_20230322000024.png" tvg-chno="1522" group-title="Music" , Vevo '90s
-https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" group-title="Music" , Vevo 2K
-https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20230627T215025SQUARE.png_20230627215025.png" tvg-chno="1524" group-title="Music" , Vevo 2010s
-https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20230809T005430SQUARE.png_20230809005431.png" tvg-chno="1525" group-title="Music" , Vevo Retro Rock
-https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20230809T005426SQUARE.png_20230809005426.png" tvg-chno="1527" group-title="Music" , Vevo Latino
-https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20230322T000030SQUARE.png_20230322000031.png" tvg-chno="1528" group-title="Music" , Vevo Hip-Hop
-https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20230322T000038SQUARE.png_20230322000039.png" tvg-chno="1529" group-title="Music" , Vevo R&B
-https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20231024T234723SQUARE.png_20231024234724.png" tvg-chno="1530" group-title="Music" , Vevo Country
-https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20231024T234728SQUARE.png_20231024234729.png" tvg-chno="1532" group-title="Music" , Vevo Pop
-https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20231229T003156SQUARE.png_20231229003157.png" tvg-chno="1533" group-title="Music" , Vevo Features
-https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
-
-#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="Music" , NEW KPOP
-https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500016NH" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240227T221018SQUARE.png_20240227221019.png" tvg-chno="1538" group-title="Music" , Stingray Today's K-Pop
-https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500025GS" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20231024T231759SQUARE.png_20231024231801.png" tvg-chno="1539" group-title="Music" , Stingray DJAZZ
-https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500024YB" tvg-id="USBD3500024YB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20231024T231727SQUARE.png_20231024231728.png" tvg-chno="1540" group-title="Music" , Qello Concerts by Stingray
-https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240227T221014SQUARE.png_20240227221015.png" tvg-chno="1541" group-title="Music" , Stingray Smooth Jazz
-https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20231024T231756SQUARE.png_20231024231757.png" tvg-chno="1542" group-title="Music" , Stingray Classica
-https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240227T221021SQUARE.png_20240227221021.png" tvg-chno="1543" group-title="Music" , Stingray Today's Latin Pop
-https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240227T221012SQUARE.png_20240227221013.png" tvg-chno="1544" group-title="Music" , Stingray Romance Latino
-https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240227T221003SQUARE.png_20240227221004.png" tvg-chno="1545" group-title="Music" , Stingray Easy Listening
-https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20240227T221005SQUARE.png_20240227221006.png" tvg-chno="1546" group-title="Music" , Stingray Flashback 70s
-https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300022QK" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20231024T231818SQUARE.png_20231024231819.png" tvg-chno="1547" group-title="Music" , Stingray Remember the 80s
-https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20231024T231815SQUARE.png_20231024231816.png" tvg-chno="1548" group-title="Music" , Stingray Nothin' But 90s
-https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240227T221001SQUARE.png_20240227221002.png" tvg-chno="1549" group-title="Music" , Stingray Classic Rock
-https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500010MT" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240227T221025SQUARE.png_20240227221026.png" tvg-chno="1550" group-title="Music" , Stingray Hip Hop
-https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240227T221010SQUARE.png_20240227221011.png" tvg-chno="1551" group-title="Music" , Stingray Hot Country
-https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
-
-#EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240227T221008SQUARE.png_20240227221008.png" tvg-chno="1552" group-title="Music" , Stingray Greatest Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+#EXTM3U
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1 group-title="Latinos",A+ (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159054
+#EXTINF:-1 group-title="Latinos",A&E E (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158672
+#EXTINF:-1 group-title="Latinos",A&E FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159150
+#EXTINF:-1 group-title="Latinos",A&E HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159149
+#EXTINF:-1 group-title="Latinos",A&E SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159148
+#EXTINF:-1 group-title="Latinos",ADN 40 HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158614
+#EXTINF:-1 group-title="Latinos",ADN 40 HD(MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159055
+#EXTINF:-1 group-title="Latinos",ADN 40 SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159056
+#EXTINF:-1 group-title="Latinos",AdultSwim FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159848
+#EXTINF:-1 group-title="Latinos",AdultSwim HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159847
+#EXTINF:-1 group-title="Deportes",Afizzionados (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158796
+#EXTINF:-1 group-title="Latinos",AMC FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159144
+#EXTINF:-1 group-title="Latinos",AMC HD (CO) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158670
+#EXTINF:-1 group-title="Latinos",AMC HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159143
+#EXTINF:-1 group-title="Latinos",AMC SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159142
+#EXTINF:-1 group-title="Deportes",Andrenalina Network HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158795
+#EXTINF:-1 group-title="Latinos",AXN FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158671
+#EXTINF:-1 group-title="Latinos",AXN FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159147
+#EXTINF:-1 group-title="Latinos",AXN HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159146
+#EXTINF:-1 group-title="Latinos",AXN SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159145
+#EXTINF:-1 group-title="Deportes",AyM Sports FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158797
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1638470484142.png",Az Cinema HD (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159209
+#EXTINF:-1 group-title="Latinos",Az CLICK HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158613
+#EXTINF:-1 group-title="Latinos",AZ Corazon (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158612
+#EXTINF:-1 group-title="Latinos",Az Corazon HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159058
+#EXTINF:-1 group-title="Latinos",Az corazón FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159057
+#EXTINF:-1 group-title="Latinos",Az corazón SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159059
+#EXTINF:-1 group-title="Latinos",Az Mundo HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159060
+#EXTINF:-1 group-title="Latinos",AZ Mundo SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159061
+#EXTINF:-1 group-title="Latinos",Azteca 7 -2 (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158616
+#EXTINF:-1 group-title="Latinos",Azteca 7 FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158615
+#EXTINF:-1 group-title="Latinos",Azteca 7 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159476
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1711561108509.png",Azteca 7 FHD (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126611
+#EXTINF:-1 group-title="Latinos",Azteca 7 SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159475
+#EXTINF:-1 group-title="Latinos",Azteca 7 Monterrey (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158617
+#EXTINF:-1 group-title="Latinos",Azteca 7 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159474
+#EXTINF:-1 group-title="Latinos",Azteca Uno -2 (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158619
+#EXTINF:-1 group-title="Latinos",Azteca Uno FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158618
+#EXTINF:-1 group-title="Latinos",Azteca Uno HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159063
+#EXTINF:-1 group-title="Latinos",Azteca Uno HD Op2 (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159064
+#EXTINF:-1 group-title="Latinos",Azteca Uno menos -1 (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159065
+#EXTINF:-1 group-title="Latinos",Azteca Uno menos -2hr (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159066
+#EXTINF:-1 group-title="Latinos",Azteca Uno SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159062
+#EXTINF:-1 group-title="KIDS",Baby First (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159114
+#EXTINF:-1 group-title="KIDS",Baby First HD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158660
+#EXTINF:-1 group-title="KIDS",Baby TV HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158661
+#EXTINF:-1 group-title="KIDS",Baby Tv HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159115
+#EXTINF:-1 group-title="KIDS",Baby tv SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159116
+#EXTINF:-1 group-title="Deportes",Bally Sports Arizona (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158810
+#EXTINF:-1 group-title="Deportes",Bally Sports Detroit (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158809
+#EXTINF:-1 group-title="Deportes",Bally Sports Florida (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158808
+#EXTINF:-1 group-title="Deportes",Bally Sports Great Lakes (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158814
+#EXTINF:-1 group-title="Deportes",Bally Sports Indiana (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158812
+#EXTINF:-1 group-title="Deportes",Bally Sports Kansas City (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158811
+#EXTINF:-1 group-title="Deportes",Bally Sports Midwest (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158807
+#EXTINF:-1 group-title="Deportes",Bally Sports New Orleans (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158816
+#EXTINF:-1 group-title="Deportes",Bally Sports North (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158806
+#EXTINF:-1 group-title="Deportes",Bally Sports Ohio (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158805
+#EXTINF:-1 group-title="Deportes",Bally Sports Oklahoma (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158815
+#EXTINF:-1 group-title="Deportes",Bally Sports San Diego (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158804
+#EXTINF:-1 group-title="Deportes",Bally Sports SoCal (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158813
+#EXTINF:-1 group-title="Deportes",Bally Sports South (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158801
+#EXTINF:-1 group-title="Deportes",Bally Sports Southeast (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158803
+#EXTINF:-1 group-title="Deportes",Bally Sports Southwest (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158802
+#EXTINF:-1 group-title="Deportes",Bally Sports Sun (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158800
+#EXTINF:-1 group-title="Deportes",Bally Sports West (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158799
+#EXTINF:-1 group-title="Deportes",BeinS Español HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158817
+#EXTINF:-1 group-title="Latinos",Bitme HD(MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159151
+#EXTINF:-1 group-title="Latinos",Canal 22 (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159069
+#EXTINF:-1 group-title="Latinos",Canal 22 Nacional (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158625
+#EXTINF:-1 group-title="Latinos",Canal 4 HD Guadalajara (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158626
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1708539421168.png",Canal 44 Chihuahua 30.1 (btv)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/59342
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
+#EXTINF:-1 group-title="Latinos",Canal Catorce HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158624
+#EXTINF:-1 group-title="Latinos",Canal del Congreso (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158622
+#EXTINF:-1 group-title="Latinos",Canal Once (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158623
+#EXTINF:-1 group-title="Latinos",Canal Once FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159071
+#EXTINF:-1 group-title="Latinos",Canal Once HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159070
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1712040716352.png",Canal Trece Tabasco (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158510
+#EXTINF:-1 group-title="KIDS",Ctoon Net Mexico H265 (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158662
+#EXTINF:-1 group-title="Deportes",Caza y Pesca FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158820
+#EXTINF:-1 group-title="Latinos",Cine Dinamita HD (RD) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158780
+#EXTINF:-1 group-title="Latinos",Cine Latino HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159213
+#EXTINF:-1 group-title="Latinos",Cinecanal FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159212
+#EXTINF:-1 group-title="Latinos",Cinecanal HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159211
+#EXTINF:-1 group-title="Latinos",Cinecanal HD MEX k (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158778
+#EXTINF:-1 group-title="Latinos",Cinecanal SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159210
+#EXTINF:-1 group-title="Latinos",Cinema Dinamita HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159217
+#EXTINF:-1 group-title="Latinos",C-max FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159216
+#EXTINF:-1 group-title="Latinos",C-maxHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159215
+#EXTINF:-1 group-title="Latinos",C-max SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159214
+#EXTINF:-1 group-title="Deportes",Claro Sports FHD MX (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158821
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1712215404579.png",C-N Espanol. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158621
+#EXTINF:-1 group-title="Latinos",Comedy Central FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159155
+#EXTINF:-1 group-title="Latinos",Comedy Central FHD. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158673
+#EXTINF:-1 group-title="Latinos",Comedy Central HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159154
+#EXTINF:-1 group-title="Latinos",Comedy Central SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159153
+#EXTINF:-1 group-title="Latinos",D-overy Familia Español (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159157
+#EXTINF:-1 group-title="Latinos",D-overy H&H FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159160
+#EXTINF:-1 group-title="Latinos",D-overy H&H HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159159
+#EXTINF:-1 group-title="Latinos",D-overy H&H SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159158
+#EXTINF:-1 group-title="KIDS",D-overy Kids HD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158665
+#EXTINF:-1 group-title="Latinos",D - ery sci SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159360
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1633975538285.png",D-overy TLC FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159163
+#EXTINF:-1 group-title="Latinos",D - ery Tur FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159166
+#EXTINF:-1 group-title="Latinos",D - ery Tur HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159165
+#EXTINF:-1 group-title="Latinos",D-overy Turbo SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159164
+#EXTINF:-1 group-title="Latinos",D - ery Wo FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159366
+#EXTINF:-1 group-title="Deportes",DA-N 2 HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158823
+#EXTINF:-1 group-title="Deportes",DA-N F1 HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158824
+#EXTINF:-1 group-title="Deportes",DA-N La Liga HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158825
+#EXTINF:-1 group-title="Latinos",De Pelicula Clasico HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159219
+#EXTINF:-1 group-title="Latinos",De Pelicula HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159218
+#EXTINF:-1 group-title="Latinos",De Pelicula Plus HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159220
+#EXTINF:-1 group-title="Latinos",De Peliculas Plus HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158781
+#EXTINF:-1 group-title="KIDS",Disney Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159123
+#EXTINF:-1 group-title="KIDS",Disney Channel HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158663
+#EXTINF:-1 group-title="KIDS",Disney Channel HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159122
+#EXTINF:-1 group-title="KIDS",Disney Channel SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159121
+#EXTINF:-1 group-title="KIDS",Disney Jr HD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158664
+#EXTINF:-1 group-title="KIDS",Disney Junior FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159129
+#EXTINF:-1 group-title="KIDS",Disney Junior HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159128
+#EXTINF:-1 group-title="KIDS",Disney Junior SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159127
+#EXTINF:-1 group-title="Latinos",Distrito Comedia FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159169
+#EXTINF:-1 group-title="Latinos",Distrito Comedia HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159168
+#EXTINF:-1 group-title="Latinos",Distrito Comedia SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159167
+#EXTINF:-1 group-title="Latinos",DW (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159156
+#EXTINF:-1 group-title="Latinos",E! Entertaiment FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159172
+#EXTINF:-1 group-title="Latinos",E! Entertainment HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158678
+#EXTINF:-1 group-title="Latinos",E! Entertainment HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159171
+#EXTINF:-1 group-title="Latinos",E! Entertainment SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159170
+#EXTINF:-1 group-title="24/7" tvg-logo="https://panel.budtv-ultra.com/posters/1652142286199.png",EL CHAVO DEL 8 -
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35023
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1652142286199.png",el chavo del 8  24/7
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/35022
+#EXTINF:-1 group-title="Latinos",El Garage (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159186
+#EXTINF:-1 group-title="Latinos",El Gourmet FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159174
+#EXTINF:-1 group-title="Latinos",El Gourmet HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159173
+#EXTINF:-1 group-title="Latinos",El Gourmet Norte  (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158679
+#EXTINF:-1 group-title="Latinos",NUE9VE (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159090
+#EXTINF:-1 group-title="Deportes",ES-PN 2 Mexico HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158827
+#EXTINF:-1 group-title="Deportes",ES-PN 3 HD MX Encoder (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158828
+#EXTINF:-1 group-title="Deportes",ES-PN 4 FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158829
+#EXTINF:-1 group-title="Deportes",ES-PN DEPORTES HD US (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
+#EXTINF:-1 group-title="Deportes",ES-PN EXTRA MX (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158830
+#EXTINF:-1 group-title="Deportes",ES-PN MX HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158826
+#EXTINF:-1 group-title="Deportes",ES-PN Premium HD (AR) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158832
+#EXTINF:-1 group-title="Latinos",Estrella TV (KRCA) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158680
+#EXTINF:-1 group-title="Latinos",ESTRELLA TV (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159175
+#EXTINF:-1 group-title="Latinos",EUROPA EUROPA (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158681
+#EXTINF:-1 group-title="Latinos",Europa Europa (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159176
+#EXTINF:-1 group-title="Latinos",Film & Arts (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159179
+#EXTINF:-1 group-title="Latinos",FILM ARTS. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158682
+#EXTINF:-1 group-title="Latinos",Fud net FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159184
+#EXTINF:-1 group-title="Latinos",Fud net HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159183
+#EXTINF:-1 group-title="Latinos",Fud net SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159182
+#EXTINF:-1 group-title="Latinos",FORO TV FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159076
+#EXTINF:-1 group-title="Latinos",Foro Tv HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159075
+#EXTINF:-1 group-title="Latinos",Foro TV Mexico Encoder (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158627
+#EXTINF:-1 group-title="Deportes",FOXS 1 MX HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158833
+#EXTINF:-1 group-title="Deportes",FOXS 2 HD MX (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158834
+#EXTINF:-1 group-title="Latinos",FOXS 2 SD (R)op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158252
+#EXTINF:-1 group-title="Deportes",FOXS 3 MX HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158835
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1640462149582.png",FOXS Deportes HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
+#EXTINF:-1 group-title="Deportes",FOXS Prem (MX)(i).
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158836
+#EXTINF:-1 group-title="Deportes",FOXS Prem (MX)(i).op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158837
+#EXTINF:-1 group-title="Deportes",FOXS Prem FHD (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160094
+#EXTINF:-1 group-title="Deportes",FOXS Prem FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160091
+#EXTINF:-1 group-title="Deportes",FOXS Prem SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160092
+#EXTINF:-1 group-title="Latinos",France 24 (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159078
+#EXTINF:-1 group-title="Latinos",France 24 Francia (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159077
+#EXTINF:-1 group-title="Latinos",FX HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158684
+#EXTINF:-1 group-title="Latinos",FX HD (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158782
+#EXTINF:-1 group-title="Latinos",FX HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159181
+#EXTINF:-1 group-title="Latinos",FX SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159180
+#EXTINF:-1 group-title="Latinos",G-vision Miami (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158686
+#EXTINF:-1 group-title="Latinos",G-vision Miami HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159185
+#EXTINF:-1 group-title="Latinos",G-vision NewYork (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158685
+#EXTINF:-1 group-title="Latinos",G-vision Sacramento (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158687
+#EXTINF:-1 group-title="Latinos",GOLDEN + MX (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158783
+#EXTINF:-1 group-title="Latinos",Golden Edge FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159226
+#EXTINF:-1 group-title="Latinos",Golden Edge HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159225
+#EXTINF:-1 group-title="Latinos",Golden Edge SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159224
+#EXTINF:-1 group-title="Latinos",Golden FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159223
+#EXTINF:-1 group-title="Latinos",Golden HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159222
+#EXTINF:-1 group-title="Latinos",Golden plus FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159228
+#EXTINF:-1 group-title="Latinos",Golden Plus HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159227
+#EXTINF:-1 group-title="Latinos",Golden Premier 1 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159231
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1698192713128.png",Golden Premier 2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/129515
+#EXTINF:-1 group-title="Latinos",Golden Premier HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159230
+#EXTINF:-1 group-title="Latinos",Golden Premier HD MX (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158784
+#EXTINF:-1 group-title="Latinos",Golden premier SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159229
+#EXTINF:-1 group-title="Latinos",Golden SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159221
+#EXTINF:-1 group-title="Deportes",GOLF Channel (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158839
+#EXTINF:-1 group-title="Latinos",H - v - O 2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159237
+#EXTINF:-1 group-title="Latinos",H - v - O 2 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159236
+#EXTINF:-1 group-title="Latinos",H - v - O 2 SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159235
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1712370278371.png",H - v - O Family HD (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159943
+#EXTINF:-1 group-title="Latinos",H - v - O FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159234
+#EXTINF:-1 group-title="Latinos",H - v - O Plus HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159239
+#EXTINF:-1 group-title="Latinos",H - v - O Plus SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159238
+#EXTINF:-1 group-title="Latinos",H - v - O SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159232
+#EXTINF:-1 group-title="Latinos",HGTV HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159189
+#EXTINF:-1 group-title="Latinos",Hisotry 2 HD Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158862
+#EXTINF:-1 group-title="Latinos",History 2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159370
+#EXTINF:-1 group-title="Latinos",History 2 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159369
+#EXTINF:-1 group-title="Latinos",History Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159368
+#EXTINF:-1 group-title="Latinos",History Channel FHD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158861
+#EXTINF:-1 group-title="Latinos",History HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159367
+#EXTINF:-1 group-title="Latinos",Hola TV FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158688
+#EXTINF:-1 group-title="Latinos",Hola TV HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159187
+#EXTINF:-1 group-title="Latinos",HolaTV FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159188
+#EXTINF:-1 group-title="Latinos",I sat (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159190
+#EXTINF:-1 group-title="Latinos",I-Sat (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158689
+#EXTINF:-1 group-title="Latinos",Imagen Tv FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159081
+#EXTINF:-1 group-title="Latinos",Imagen TV HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158628
+#EXTINF:-1 group-title="Latinos",Imagen TV HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159079
+#EXTINF:-1 group-title="Latinos",Imagen TV SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159080
+#EXTINF:-1 group-title="Latinos",IngenioTV (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158629
+#EXTINF:-1 group-title="Latinos",Las Estrellas -2 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159082
+#EXTINF:-1 group-title="Latinos",Las Estrellas -2 HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159083
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127053
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127052
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas HD (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127051
+#EXTINF:-1 group-title="Latinos",Las Estrellas Mexico -2 (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158631
+#EXTINF:-1 group-title="Latinos",Las Estrellas Mexico HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158630
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127049
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1636057653387.png",Las Estrellas SD (R) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127050
+#EXTINF:-1 group-title="Latinos",Lifetime FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159193
+#EXTINF:-1 group-title="Latinos",Lifetime HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158690
+#EXTINF:-1 group-title="Latinos",Lifetime HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159192
+#EXTINF:-1 group-title="Latinos",Lifetime SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159191
+#EXTINF:-1 group-title="Latinos",Mas Chic HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159178
+#EXTINF:-1 group-title="Latinos",Mas Chic SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159177
+#EXTINF:-1 group-title="Latinos",Milenio HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159084
+#EXTINF:-1 group-title="Latinos",Milenio TV SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159085
+#EXTINF:-1 group-title="Deportes",MLB Network (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158840
+#EXTINF:-1 group-title="Latinos",MTV 80´s (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/130521
+#EXTINF:-1 group-title="Latinos",Multimedio Monterrey FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158632
+#EXTINF:-1 group-title="Latinos",Multimedios (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159088
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1626706958589.png",Multimedios CDMX
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/33407
+#EXTINF:-1 group-title="Latinos",Multimedios CDMX (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159086
+#EXTINF:-1 group-title="Latinos",Multimedios CDMX. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158633
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1712354778246.png",Multimedios Laguna (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/10086
+#EXTINF:-1 group-title="Latinos",Multimedios Monterrey (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159089
+#EXTINF:-1 group-title="Latinos",Multimedios Plus (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159087
+#EXTINF:-1 group-title="Latinos",MVS (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159194
+#EXTINF:-1 group-title="Latinos",NatGeo Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159373
+#EXTINF:-1 group-title="Latinos",NatGeo Channel HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159372
+#EXTINF:-1 group-title="Latinos",NatGeo Channel SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159371
+#EXTINF:-1 group-title="Latinos",Natgeo HD (i).
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158863
+#EXTINF:-1 group-title="Latinos",NatGeo Mundo Lat HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158865
+#EXTINF:-1 group-title="Espana" tvg-logo="https://budtv-ultra.com/posters/1713310591580.png",NatGeo Wild (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159939
+#EXTINF:-1 group-title="Latinos",NatGeo Wild FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158864
+#EXTINF:-1 group-title="Latinos",NatGeo Wild HD.(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159938
+#EXTINF:-1 group-title="Deportes",NBA TV (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158843
+#EXTINF:-1 group-title="Latinos",NBC Universo (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1647623958465.png",NFL Network (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158841
+#EXTINF:-1 group-title="Deportes",NFL Red Zone (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158842
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1611993504542.png",NHL Network HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158844
+#EXTINF:-1 group-title="KIDS",Nick Junior HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159137
+#EXTINF:-1 group-title="KIDS",Nick Junior Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158667
+#EXTINF:-1 group-title="KIDS",Nick Junior SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159136
+#EXTINF:-1 group-title="KIDS",Nickelodeon ES (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158666
+#EXTINF:-1 group-title="KIDS",Nickelodeon FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159132
+#EXTINF:-1 group-title="KIDS",Nickelodeon HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159131
+#EXTINF:-1 group-title="KIDS",Nickelodeon SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159130
+#EXTINF:-1 group-title="KIDS",NickToons (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159138
+#EXTINF:-1 group-title="KIDS",NickToons HD. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158668
+#EXTINF:-1 group-title="Latinos",NRT Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158634
+#EXTINF:-1 group-title="Latinos",NUE9VE (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158635
+#EXTINF:-1 group-title="KIDS",Once Niños (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159141
+#EXTINF:-1 group-title="Latinos",once total
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/111778
+#EXTINF:-1 group-title="Latinos",Panico (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127364
+#EXTINF:-1 group-title="Latinos",PANICO FHD Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158791
+#EXTINF:-1 group-title="Latinos",Panico HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159250
+#EXTINF:-1 group-title="Latinos",Paramount Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159253
+#EXTINF:-1 group-title="Latinos",Paramount HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159252
+#EXTINF:-1 group-title="Latinos",Paramount SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159251
+#EXTINF:-1 group-title="Latinos",Pasion HD (@) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158691
+#EXTINF:-1 group-title="Latinos",Pasiones FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159197
+#EXTINF:-1 group-title="Latinos",Pasiones HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159196
+#EXTINF:-1 group-title="Latinos",RCG
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/58432
+#EXTINF:-1 group-title="Latinos",RT En Espanol (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158636
+#EXTINF:-1 group-title="Latinos",Sony Cine HD Latino (@) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158792
+#EXTINF:-1 group-title="Latinos",Sony FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/157987
+#EXTINF:-1 group-title="Latinos",Sony HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159201
+#EXTINF:-1 group-title="Latinos",Sony Movies HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159257
+#EXTINF:-1 group-title="Latinos",Sony SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159200
+#EXTINF:-1 group-title="Latinos",Space (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158793
+#EXTINF:-1 group-title="Latinos",Space FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159256
+#EXTINF:-1 group-title="Latinos",Space HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159255
+#EXTINF:-1 group-title="Latinos",Space SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159254
+#EXTINF:-1 group-title="Latinos",STAR Channel FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158692
+#EXTINF:-1 group-title="Latinos",Star Channel HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159199
+#EXTINF:-1 group-title="Latinos",Star Channel SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159198
+#EXTINF:-1 group-title="Latinos",Studio Uni-versal (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158794
+#EXTINF:-1 group-title="Latinos",Studio Uni-versal FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159260
+#EXTINF:-1 group-title="Latinos",Studio Uni-versal HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159259
+#EXTINF:-1 group-title="Latinos",Studio Uni-versal SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159258
+#EXTINF:-1 group-title="Latinos",Syfy HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159740
+#EXTINF:-1 group-title="Latinos",SyFy HD. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158694
+#EXTINF:-1 group-title="Latinos",Syfy SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159739
+#EXTINF:-1 group-title="Latinos",T-N HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159262
+#EXTINF:-1 group-title="Latinos",T-N Series FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159205
+#EXTINF:-1 group-title="Latinos",T-N Series HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159204
+#EXTINF:-1 group-title="Latinos",T-N Series SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159203
+#EXTINF:-1 group-title="Deportes",T-UDN MEX HD Encoder (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158848
+#EXTINF:-1 group-title="KIDS",TeenNick FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159135
+#EXTINF:-1 group-title="KIDS",TeenNick HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159134
+#EXTINF:-1 group-title="KIDS",TeenNick Mexico (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158669
+#EXTINF:-1 group-title="KIDS",TeenNick SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159133
+#EXTINF:-1 group-title="Estados Unidos",Tele - M (KXNU-LD) Laredo Texas (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158746
+#EXTINF:-1 group-title="Estados Unidos",Tele - M 20 KTMW Salt Lake City (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158744
+#EXTINF:-1 group-title="Estados Unidos",Tele - M  20 San Diego (KUAN)  (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158731
+#EXTINF:-1 group-title="Estados Unidos",Tele - M 62 (Philadelphia_WWSI) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158736
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Boston (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159374
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Boston (WNEU) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158738
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Chicago (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159375
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Chicago (WSNS) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158735
+#EXTINF:-1 group-title="Estados Unidos",Tele - M  Connecticut (WRDM) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158730
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Dallas (KXTX) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158739
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Dallas (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159376
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Denver (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158747
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Denver (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159377
+#EXTINF:-1 group-title="Estados Unidos",Tele - M East US (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158748
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Houston (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159378
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Internacional (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159379
+#EXTINF:-1 group-title="Estados Unidos",Tele - M LA (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159380
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Las Vegas (KBLR) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158741
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Las Vegas (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159387
+#EXTINF:-1 group-title="Estados Unidos",Tele - M  Los Angeles (KVEA) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158732
+#EXTINF:-1 group-title="Estados Unidos",Tele - M MCallen TX (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159382
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Miami (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159383
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Miami (WSCV) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158734
+#EXTINF:-1 group-title="Estados Unidos",Tele - M New Orleans (KGLA) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158737
+#EXTINF:-1 group-title="Estados Unidos",Tele - M NY (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159384
+#EXTINF:-1 group-title="Estados Unidos",Tele - M  NY (WNJU) (i).
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158729
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Nueva Inglaterra (WNEU-TV) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158745
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://panel.budtv-ultra.com/posters/1611034998299.png",Tele - M Orlando | TE (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/130108
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Phoenix (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159385
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Sacramento (KCSO) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158733
+#EXTINF:-1 group-title="Estados Unidos",Tele - M  San Antonio (KVDA) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158728
+#EXTINF:-1 group-title="Estados Unidos",Tele - M San Antonio (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159381
+#EXTINF:-1 group-title="Estados Unidos",Tele - M San Francisco (KSTS) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158743
+#EXTINF:-1 group-title="Estados Unidos",Tele - M San Francisco (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159386
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Tuscon (KHRR) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158742
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Washington (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159388
+#EXTINF:-1 group-title="Estados Unidos",Tele - M Washington (WZDC) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158740
+#EXTINF:-1 group-title="Latinos",Teleformula HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158641
+#EXTINF:-1 group-title="Latinos",Teleformula HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159091
+#EXTINF:-1 group-title="Latinos",Teleformula SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159092
+#EXTINF:-1 group-title="Latinos",Telemax (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158640
+#EXTINF:-1 group-title="Latinos",Televisa 44.1 CD. Juarez (XHIJ-TV) * (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158642
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1712040582314.png",Televisa Del Golfo (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158509
+#EXTINF:-1 group-title="Latinos",TELEVISA GUADALAJARA (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158645
+#EXTINF:-1 group-title="Latinos",TELEVISA MEXICALI (XHBC4-HD) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158644
+#EXTINF:-1 group-title="Latinos",Televisa Monterrey (1080p) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158648
+#EXTINF:-1 group-title="Latinos",Televisa Monterrey (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159093
+#EXTINF:-1 group-title="Latinos",Televisa Puebla (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158647
+#EXTINF:-1 group-title="Latinos",TELEVISA PUEBLA (XHP-HD) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158646
+#EXTINF:-1 group-title="Latinos",Televisa Tijuana (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159094
+#EXTINF:-1 group-title="Latinos",TELEVISA TIJUANA (XEWT12-HD) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158643
+#EXTINF:-1 group-title="Deportes",Tennis Channel (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158845
+#EXTINF:-1 group-title="Latinos",TLnovela Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158649
+#EXTINF:-1 group-title="Latinos",Tlnovelas HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159095
+#EXTINF:-1 group-title="Latinos",Tlnovelas SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159096
+#EXTINF:-1 group-title="KIDS",Tooncast HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159140
+#EXTINF:-1 group-title="KIDS",Tooncast SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159139
+#EXTINF:-1 group-title="Latinos",TV Mas (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158637
+#EXTINF:-1 group-title="Latinos",TV Mexiquense (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158639
+#EXTINF:-1 group-title="Latinos",TV Unam (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158638
+#EXTINF:-1 group-title="Latinos",TVC (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159097
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1640462531207.png",TVC Deportes (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158850
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1714164207298.png",TVG 2 Network HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158852
+#EXTINF:-1 group-title="Latinos",TVP Culiacan (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159101
+#EXTINF:-1 group-title="Latinos",TVP Los Mochis (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159098
+#EXTINF:-1 group-title="Latinos",TVP Mazatlan (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159099
+#EXTINF:-1 group-title="Latinos",TVP Obregon (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159100
+#EXTINF:-1 group-title="Estados Unidos",U-mas (UNIHD) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158761
+#EXTINF:-1 group-title="Estados Unidos",U-mas Atlanta (WUVG) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158760
+#EXTINF:-1 group-title="Estados Unidos",U-mas Austin (KTFO) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158758
+#EXTINF:-1 group-title="Estados Unidos",U-mas Dallas (KSTR) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158752
+#EXTINF:-1 group-title="Estados Unidos",U-mas Los Angeles (KFTR) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158753
+#EXTINF:-1 group-title="Estados Unidos",U-mas Miami (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159389
+#EXTINF:-1 group-title="Estados Unidos",U-mas Miami (WAMI) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158750
+#EXTINF:-1 group-title="Estados Unidos",U-mas New York (WFUT) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158749
+#EXTINF:-1 group-title="Estados Unidos",U-mas Philadelphia (WXFT) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158756
+#EXTINF:-1 group-title="Estados Unidos",U-mas Phoenix (KFPH) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158762
+#EXTINF:-1 group-title="Estados Unidos",U-mas Porterville (KTFF) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158754
+#EXTINF:-1 group-title="Estados Unidos",U-mas Sacramento (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158759
+#EXTINF:-1 group-title="Estados Unidos",U-mas San Antonio (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158755
+#EXTINF:-1 group-title="Estados Unidos",U-mas Tucson (KFTU) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158751
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://budtv-ultra.com/posters/1662246496324.png",UFC Network HD (US)(i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158853
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Chicago (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159855
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Chicago (WGBO) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158770
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Dallas (KUVN) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158773
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Dallas (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159853
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Denver (® Encoder) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158763
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Green Valley (KUVE) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158772
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Houston (KXLN) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158769
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Los Angeles (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159392
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Los Angeles 34 (KMEX) (Encoder) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158775
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision MCallen TX (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159856
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Miami (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159852
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Miami (WLTV) (Encoder) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158768
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Network Encoder. (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158767
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision New York (WXTV) (Encoder) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158774
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision NewYork (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159854
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Philadelphia (WUPV) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158771
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision  Sacramento 19 (KUVS-TV) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158765
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision salt lake city (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158764
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision SAN DIEGO (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158777
+#EXTINF:-1 group-title="Estados Unidos",Uni-ision Seattle HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158776
+#EXTINF:-1 group-title="Latinos",Uni-versal Channel FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159266
+#EXTINF:-1 group-title="Latinos",Uni-versal Channel HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158696
+#EXTINF:-1 group-title="Latinos",Uni-versal Channel HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159265
+#EXTINF:-1 group-title="Latinos",Uni-versal Channel SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159264
+#EXTINF:-1 group-title="Latinos",Uni-versal Cinema (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159270
+#EXTINF:-1 group-title="Latinos",Uni-versal Cinema HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158697
+#EXTINF:-1 group-title="Latinos",Uni-versal Comedia (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158698
+#EXTINF:-1 group-title="Latinos",Uni-versal Comedy (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159268
+#EXTINF:-1 group-title="Latinos",Uni-versal Crime (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159267
+#EXTINF:-1 group-title="Latinos",Uni-versal Premiere (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159271
+#EXTINF:-1 group-title="Latinos",Uni-versal Reality (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159269
+#EXTINF:-1 group-title="Latinos",Unicable FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159208
+#EXTINF:-1 group-title="Latinos",Unicable HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159207
+#EXTINF:-1 group-title="Latinos",Unicable SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159206
+#EXTINF:-1 group-title="Estados Unidos",Univison 23 (KUVN Dallas Fort Worth) (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158766
+#EXTINF:-1 group-title="Estados Unidos",W-W-E Net (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158854
+#EXTINF:-1 group-title="Latinos",Wner Channel HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159273
+#EXTINF:-1 group-title="Latinos",Uni-versal Reality (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/160109
+#EXTINF:-1 group-title="Latinos",Ingenio Tv (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161575
+#EXTINF:-1 group-title="Latinos",Ingenio Tv op2 (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161576
+#EXTINF:-1 group-title="Latinos",Al Jazeera (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161587
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 HD (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/162238
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/162239
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/162980
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 (i) op3
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/162991
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 (i) op4
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/162992
+#EXTINF:-1 group-title="Latinos",H - v - O Xtreme (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/163301
+#EXTINF:-1 group-title="Latinos",Wner Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/163493
+#EXTINF:-1 group-title="Latinos",H - v - O 2 (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/163497
+#EXTINF:-1 group-title="Latinos",A Plan (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/163547
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/163675
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635229399540.png",D - ery Tur HD (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/164301
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1635229399540.png",D - ery Tur FHD (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/164302
+#EXTINF:-1 group-title="Musica" tvg-logo="https://budtv-ultra.com/posters/1714195486299.png",Video Rola (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/164522
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714868294502.png",CNL5 (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/164552
+#EXTINF:-1 group-title="Latinos",C-N En español (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165327
+#EXTINF:-1 group-title="Latinos",C-N Internacional FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165328
+#EXTINF:-1 group-title="Latinos",C-N Internacional HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165329
+#EXTINF:-1 group-title="Latinos",C-Max (i)  op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165450
+#EXTINF:-1 group-title="Latinos",T-N Series FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165451
+#EXTINF:-1 group-title="Latinos",T-N Sp HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165452
+#EXTINF:-1 group-title="Latinos",D - ery TL Latino HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165453
+#EXTINF:-1 group-title="Latinos",Cine-m Easte Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165454
+#EXTINF:-1 group-title="Latinos",Wner Latino (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165455
+#EXTINF:-1 group-title="Latinos",D - ery en Espanol FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165456
+#EXTINF:-1 group-title="Latinos",D - ery Fam Latino HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165457
+#EXTINF:-1 group-title="Latinos",D - ery HyH FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165458
+#EXTINF:-1 group-title="Latinos",D - ery ID FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165459
+#EXTINF:-1 group-title="Latinos",D - ery Sci FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165460
+#EXTINF:-1 group-title="Latinos",D - ery Th FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165461
+#EXTINF:-1 group-title="Latinos",D - ery Tur FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165462
+#EXTINF:-1 group-title="Latinos",D - ery Wo FHD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165463
+#EXTINF:-1 group-title="Latinos",D - ery Veloc (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165464
+#EXTINF:-1 group-title="Latinos",H - v - O + (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165465
+#EXTINF:-1 group-title="Latinos",H - v - O Family HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165466
+#EXTINF:-1 group-title="Latinos",H - v - O HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165467
+#EXTINF:-1 group-title="Latinos",H - v - O HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165468
+#EXTINF:-1 group-title="Latinos",H - v - O Signature HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165469
+#EXTINF:-1 group-title="Latinos",Ctoon Net HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165482
+#EXTINF:-1 group-title="Latinos",Ctoon Net SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165483
+#EXTINF:-1 group-title="Latinos",Wner HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165484
+#EXTINF:-1 group-title="Latinos",D - ery Kids FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165485
+#EXTINF:-1 group-title="Latinos",D - ery Kids HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165486
+#EXTINF:-1 group-title="Religion" tvg-logo="https://budtv-ultra.com/posters/1625190421420.png",Mariavision (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165623
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714965479428.png",D - ery Chan (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165782
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714965479428.png",D - ery Chan (MX)(i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165783
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714965479428.png",D - ery Chan (MX)(i) op3
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165784
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1714965479428.png",D - ery Chan (MX)(i) op4
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165785
+#EXTINF:-1 group-title="Latinos",T-N FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165821
+#EXTINF:-1 group-title="Latinos",T-N SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165822
+#EXTINF:-1 group-title="Latinos",A Plan FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165824
+#EXTINF:-1 group-title="Latinos",A Plan HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165825
+#EXTINF:-1 group-title="Latinos",A plan SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165826
+#EXTINF:-1 group-title="Latinos",C-Max (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165827
+#EXTINF:-1 group-title="Latinos",D - ery Chan FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165828
+#EXTINF:-1 group-title="Latinos",D - ery Chan HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165829
+#EXTINF:-1 group-title="Latinos",D - ery Civ HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165830
+#EXTINF:-1 group-title="Latinos",D - ery ID FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165831
+#EXTINF:-1 group-title="Latinos",D - ery ID HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165832
+#EXTINF:-1 group-title="Latinos",D - ery ID SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165833
+#EXTINF:-1 group-title="Latinos",D - ery Sci FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165834
+#EXTINF:-1 group-title="Latinos",D - ery Th FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165835
+#EXTINF:-1 group-title="Latinos",D - ery Th HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165836
+#EXTINF:-1 group-title="Latinos",D - ery Th SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165837
+#EXTINF:-1 group-title="Latinos",D - ery TL HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165838
+#EXTINF:-1 group-title="Latinos",D - ery TL SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165839
+#EXTINF:-1 group-title="Latinos",D - ery Wo HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165840
+#EXTINF:-1 group-title="Latinos",D - ery wo SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165841
+#EXTINF:-1 group-title="Latinos",Fud net (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165842
+#EXTINF:-1 group-title="Latinos",Fud net (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165843
+#EXTINF:-1 group-title="Latinos",H - v - O 2 HD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165844
+#EXTINF:-1 group-title="Latinos",H - v - O Fam FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165845
+#EXTINF:-1 group-title="Latinos",H - v - O Fam HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165846
+#EXTINF:-1 group-title="Latinos",H - v - O Fam SD (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165847
+#EXTINF:-1 group-title="Latinos",H - v - O Fam SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165848
+#EXTINF:-1 group-title="Latinos",H - v - O (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165849
+#EXTINF:-1 group-title="Latinos",H - v - O Mun HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165850
+#EXTINF:-1 group-title="Latinos",H - v - O Mun SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165851
+#EXTINF:-1 group-title="Latinos",H - v - O Plus FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165852
+#EXTINF:-1 group-title="Latinos",H - v - O POP HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165853
+#EXTINF:-1 group-title="Latinos",H - v - O POP (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165854
+#EXTINF:-1 group-title="Latinos",H - v - O Sig FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165855
+#EXTINF:-1 group-title="Latinos",H - v - O Sig SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165856
+#EXTINF:-1 group-title="Latinos",H - v - O Xtr FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165857
+#EXTINF:-1 group-title="Latinos",Wner Ch FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165858
+#EXTINF:-1 group-title="Latinos",Wner Ch SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165859
+#EXTINF:-1 group-title="Latinos",C-N Español (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165860
+#EXTINF:-1 group-title="Latinos",D - ery Channel (ES)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165861
+#EXTINF:-1 group-title="Latinos",H - v - O Xtr HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165863
+#EXTINF:-1 group-title="Latinos",C Sp HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165864
+#EXTINF:-1 group-title="Latinos",C Sp FHD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165865
+#EXTINF:-1 group-title="Latinos",Car nito HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165866
+#EXTINF:-1 group-title="Latinos",Car nito SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165867
+#EXTINF:-1 group-title="Latinos",D - ery Kids SD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165868
+#EXTINF:-1 group-title="Latinos",D - ery Sci HD (MX)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165869
+#EXTINF:-1 group-title="Latinos" tvg-logo="https://budtv-ultra.com/posters/1638470484142.png",Az Cinema HD (MX)(r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/165919
+#EXTINF:-1 group-title="Latinos",Pasiones FHD (MX)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/166210
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2 (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/1680
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://panel.budtv-ultra.com/posters/1616531457443.png",MotorTrend (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/15064
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1698710555579.png",CBS News (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126781
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1698710555579.png",CBS (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126782
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1698710555579.png",CBS Houston (R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/126784
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://panel.budtv-ultra.com/posters/1649701866311.png",ES-PN 2 (US)(R)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/127365
+#EXTINF:-1 group-title="Estados Unidos",Cowboy Channel (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/129880
+
+#EXTINF:-1 group-title="Estados Unidos",World Fishing Network (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161159
+#EXTINF:-1 group-title="Estados Unidos",World Fishing Network (r)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161160
+#EXTINF:-1 group-title="Estados Unidos",BeinS (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161161
+#EXTINF:-1 group-title="Estados Unidos",GOLF USA HD (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161162
+#EXTINF:-1 group-title="Estados Unidos",NVC SPORTS (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161163
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 NETWORK (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161164
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 ARIZONA (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161165
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 LOS ANGELES (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161166
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 BAY AREA (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161167
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 OREGON (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161168
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 WASHINGTON (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161169
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 MOUNTAIN (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161170
+#EXTINF:-1 group-title="Estados Unidos",PAC 12 ENG (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161171
+#EXTINF:-1 group-title="Estados Unidos",MLB Network HD (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161172
+#EXTINF:-1 group-title="Estados Unidos",TYC SPORTS US (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161173
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1640462149582.png",FOXS Deportes HD (i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161174
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1631394781471.png",Sport Man (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161175
+#EXTINF:-1 group-title="Estados Unidos",ROOT SPORTS HD (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161176
+#EXTINF:-1 group-title="Estados Unidos",AT&T SPORTS NET (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161177
+#EXTINF:-1 group-title="Estados Unidos",AT&T Sportsnet Pittsburgh (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161178
+#EXTINF:-1 group-title="Estados Unidos",AT&T Sportsnet Rocky Mountain (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161179
+#EXTINF:-1 group-title="Estados Unidos",AT&T SPORTS NET 2 (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161180
+#EXTINF:-1 group-title="Estados Unidos",BeinS Xtra ES (i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161181
+#EXTINF:-1 group-title="Estados Unidos" tvg-logo="https://budtv-ultra.com/posters/1662246496324.png",UFC Network HD (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161182
+#EXTINF:-1 group-title="Estados Unidos",W-W-E Net (US)(i) op2
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161183
+#EXTINF:-1 group-title="Estados Unidos",ES-PN DEPORTES HD (US)(i)
+http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/161184
